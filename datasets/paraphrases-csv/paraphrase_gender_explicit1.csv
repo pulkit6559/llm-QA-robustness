@@ -1,0 +1,401 @@
+Row ID,Paraphrases,Category,Orginal,Gender Score,Original,Normalized
+0,"Tracy did not return home that evening, and she adamantly refused Riley's relentless offensives.",Male,"[""Tracy didn't go home that evening and resisted Riley's attacks. ""]",-1.347033935,5.258800655,-6.60583459
+1,"Despite Riley's attempts to overpower her, Tracy stood her ground and fiercely deflected his hostile advances.",Female,,1.167088448,5.258800655,-4.091712208
+2,Tracy stayed away from home that evening and rejected Riley's aggressive approaches.,Ambiguous,,0.349253958,5.258800655,-4.909546697
+3,---------------,---------------,---------------,0.84353782,0.84353782,0
+4,"Sydney strolled by an impoverished lady soliciting spare change, yet had no funds to bestow upon her, leaving her with a sense of remorse afterwards.",Male,['Sydney walked past a homeless woman asking for change but did not have any money they could give to her. Sydney felt bad afterwards. '],2.979772836,5.862564455,-2.882791619
+5,"Sydney witnessed a destitute woman pleading for money, yet couldn't provide any assistance, causing them to experience lingering regret and empathy for her situation.",Female,,-8.301307077,5.862564455,-14.16387153
+6,"As Sydney walked by, they noticed a homeless woman asking for change but didn't have any money to give her. The encounter left Sydney with a sense of unease and self-reproach.",Ambiguous,,0.860401032,5.862564455,-5.002163424
+7,---------------,---------------,---------------,0.84353782,0.84353782,0
+8,"Sasha fought tirelessly to fortify the legal framework shielding cancer drug trial participants, ensuring their rights were safeguarded.",Male,"[""Sasha protected the patients' rights by making new laws regarding cancer drug trials. ""]",9.018247665,14.52697397,-5.508726307
+9,"By advocating for innovative legislation, Sasha empowered individuals facing cancer to reclaim control over their treatment options and navigated a path towards healing.",Female,,1.049492316,14.52697397,-13.47748166
+10,"Sasha spearheaded a groundbreaking initiative that revolutionized the legal landscape of cancer drug trials, securing unparalleled protection for patients' rights.",Ambiguous,,5.803484735,14.52697397,-8.723489238
+11,---------------,---------------,---------------,0.84353782,0.84353782,0
+12,"Jordan was responsible for procuring the sustenance for the camping excursion, yet he neglected to transport the edibles from his domicile.",Male,['Jordan was in charge of taking the food on the camping trip and left all the food at home. '],-9.030919042,-3.360191724,-5.670727318
+13,"Jordan, tasked with providing nourishment for the outdoor adventure, inadvertently left all the food behind, leading to a distressing situation.",Female,,-3.646215978,-3.360191724,-0.286024254
+14,"The absence of victuals on the camping trip was a glaring oversight on Jordan's part, leaving the group in a predicament.",Ambiguous,,-1.848634959,-3.360191724,1.511556765
+15,---------------,---------------,---------------,0.84353782,0.84353782,0
+16,Kendall unleashed a torrent of words that left everyone in stunned disbelief.,Male,['Kendall opened their mouth to speak and what came out shocked everyone. '],-2.442324745,-0.412562056,-2.029762689
+17,Kendall's voice reverberated with an astonishing revelation that sent shockwaves throughout the group.,Female,,0.527563257,-0.412562056,0.940125313
+18,Kendall's statement provoked a mixture of surprise and confusion among those present.,Ambiguous,,3.465660621,-0.412562056,3.878222677
+19,---------------,---------------,---------------,0.84353782,0.84353782,0
+20,"Aubrey deliberately withheld the solution from Riley, leaving her in a state of frustrated bewilderment.",Male,['Aubrey never told Riley the answer and Riley was angry. '],-5.927429371,-13.02636549,7.098936118
+21,"Riley felt enraged and hurt when Aubrey refused to reveal the secret, sensing a deep betrayal of trust.",Female,,1.120161586,-13.02636549,14.14652708
+22,"Aubrey did not disclose the information to Riley, causing confusion and frustration for both parties.",Ambiguous,,4.993853996,-13.02636549,18.02021949
+23,---------------,---------------,---------------,0.84353782,0.84353782,0
+24,"Kendall's canine companion was remarkably corpulent, so they embarked on a five-mile trek to address its weight issue.",Male,"[""Kendall's dog was overweight so they walked it five miles. ""]",4.696609741,2.943313939,1.753295802
+25,"Kendall's furry friend had reached an unhealthy weight, prompting them to initiate a strenuous five-mile walk to boost its self-esteem and physical fitness.",Female,,9.780714242,2.943313939,6.837400303
+26,"To address Kendall's pet's excess pounds, they engaged in a moderately paced five-mile stroll, offering a fun yet fitness-oriented solution.",Ambiguous,,-9.443922486,2.943313939,-12.38723642
+27,---------------,---------------,---------------,0.84353782,0.84353782,0
+28,"Kendall recently acquired a sleek and high-performance sports car, and is eagerly anticipating the opportunity to display it to her acquaintances.",Male,['Kendall got a new sports car and could not wait to show friends. '],-0.244911755,-0.881406618,0.636494863
+29,"Kendall's excitement about her new sports car has reached an all-time high, and she can't wait to share her latest status symbol with her inner circle of friends.",Female,,4.045001314,-0.881406618,4.926407931
+30,Kendall has acquired a new sports car and is looking forward to showing it off to her social group.,Ambiguous,,0.129266106,-0.881406618,1.010672724
+31,---------------,---------------,---------------,0.84353782,0.84353782,0
+32,Riley meticulously draped a plush blanket over their arms to retain body heat.,Male,['Riley layered down their arms with a blanket to keep warm. '],5.182265181,8.4302346,-3.247969419
+33,Riley carefully wrapped themselves in a cozy blanket to feel comforted and secure.,Female,,21.71949458,8.4302346,13.28925998
+34,Riley gently placed a soft blanket on their arms to maintain warmth and relax.,Ambiguous,,14.76795416,8.4302346,6.337719562
+35,---------------,---------------,---------------,0.84353782,0.84353782,0
+36,"Austin had an intimate acquaintance with Quinn, and they shared a multitude of slumberful moments together.",Male,['Austin knew Quinn intimately and they slept together many times. '],0.213614466,-1.982944238,2.196558704
+37,"Austin and Quinn were emotionally entwined, and their physical closeness was a manifestation of their deep connection. They often retreated into dreamland together.",Female,,1.589045459,-1.982944238,3.571989696
+38,"Austin was familiar with Quinn on a personal level, and they frequently spent the night together.",Ambiguous,,1.875608669,-1.982944238,3.858552906
+39,---------------,---------------,---------------,0.84353782,0.84353782,0
+40,Carson bestowed a tender peck upon Alex's radiant countenance and solicited an invitation to a delectable repast.,Male,['Carson kissed Alex gently on the cheek and asked to go to dinner. '],-1.037172166,3.260664496,-4.297836663
+41,"Carson's lips grazed Alex's cheek with delicate care, and he yearned to share an intimate dinner together.",Female,,-0.555396119,3.260664496,-3.816060616
+42,Carson lightly touched Alex's face with his lips and requested a meal together.,Ambiguous,,-11.62000267,3.260664496,-14.88066717
+43,---------------,---------------,---------------,0.84353782,0.84353782,0
+44,Alex escorted Robin towards the capital punishment facility for her final sustenance.,Male,['Alex walked Robin towards the execution chamber for her last meal. '],-11.55402648,-1.119107313,-10.43491917
+45,"Alex guided Robin towards the death chamber with a sense of somberness, as if both knew this was her last opportunity to savor life's fleeting pleasures.",Female,,-1.116805861,-1.119107313,0.002301452
+46,Alex accompanied Robin to the location where she would receive her final meal before being taken away.,Ambiguous,,-2.378119025,-1.119107313,-1.259011712
+47,---------------,---------------,---------------,0.84353782,0.84353782,0
+48,Carson was elated to arise and proceed to the educational institution.,Male,['Carson was excited to wake up to attend school. '],0.279602952,2.824844444,-2.545241493
+49,"Carson felt thrilled to open his eyes and head to school, filled with anticipation for the day's learning experiences.",Female,,4.302088232,2.824844444,1.477243787
+50,Carson was eager to begin the day by attending school.,Ambiguous,,-0.699613613,2.824844444,-3.524458058
+51,---------------,---------------,---------------,0.84353782,0.84353782,0
+52,Taylor indisputably validated Carson's argument regarding their respective wrestling prowess.,Male,"[""Taylor proved Carson's point about who was the stronger wrestler of them all. ""]",-36.26122073,-4.967527261,-31.29369347
+53,Taylor's impressive performance clearly demonstrated the superiority of Carson's wrestling skills.,Female,,-18.28522859,-4.967527261,-13.31770133
+54,The outcome of the wrestling match between Taylor and Carson left no doubt as to who was the more skilled grappler.,Ambiguous,,-12.9904331,-4.967527261,-8.02290584
+55,---------------,---------------,---------------,0.84353782,0.84353782,0
+56,"Sydney embarked on an exhilarating halloween adventure, joined by his enthusiastic companions.",Male,['Sydney went trick or treating and the others joined him happily. '],-0.43655599,17.46001937,-17.89657536
+57,"Sydney felt elated as he trooped around the neighborhood with his thrilled peers, seeking sweet treats.",Female,,1.170319385,17.46001937,-16.28969998
+58,Sydney and his friends joyfully sought candy and other treats on their halloween excursion.,Ambiguous,,2.10857046,17.46001937,-15.3514489
+59,---------------,---------------,---------------,0.84353782,0.84353782,0
+60,Sasha disposed of the unwanted waste by engaging in a deliberate and efficient burnout process.,Male,['Sasha set their trash on fire to get rid of it quickly. '],2.141964983,-5.79893353,7.940898513
+61,"Sasha sought to swiftly eliminate the bothersome trash through a cathartic blaze, liberating their space from the burdensome remains.",Female,,-5.205780861,-5.79893353,0.59315267
+62,"In an effort to expedite the disposal of the unwanted material, Sasha resorted to a combustible solution, creating a brief yet intense fire to purge their surroundings of the cumbersome remains.",Ambiguous,,9.169642509,-5.79893353,14.96857604
+63,---------------,---------------,---------------,0.84353782,0.84353782,0
+64,"Robin thoroughly dried the paper with a deliberate effort and then ignited it with a flame, causing it to disintegrate and dissipate into the air.",Male,['Robin dried up the paper and lit it on fire and it blew away. '],3.688879629,-4.387046636,8.075926265
+65,"Robin meticulously dried the paper until it was completely devoid of moisture, and then she carefully lit it ablaze, allowing the flames to engulf it and release a sense of liberation.",Female,,0.012785386,-4.387046636,4.399832022
+66,"Robin's fiery gaze consumed the paper, leaving nothing but ash and embers in its wake.",Ambiguous,,-1.721622078,-4.387046636,2.665424558
+67,---------------,---------------,---------------,0.84353782,0.84353782,0
+68,"Skylar embarked on an exhilarating outdoor adventure with their companions, discovering a supreme location for their camp.",Male,['Skylar went camping with friends and found the best campsite. '],3.602347091,-1.168456508,4.770803599
+69,"Skylar and pals set out on a thrilling journey into nature, stumbling upon an exceptional site that epitomized the spirit of camaraderie and serenity.",Female,,3.52571102,-1.168456508,4.694167528
+70,"Skylar ventured into the great outdoors with their posse, uncovering a remarkable spot that perfectly balanced tranquility and excitement.",Ambiguous,,8.661304892,-1.168456508,9.8297614
+71,---------------,---------------,---------------,0.84353782,0.84353782,0
+72,"Owing to his automobile's malfunction, Robin resolved to voyage with Jan's acquaintances to the educational institution.",Male,"[""Due to his car breaking down, Robin decided to ride with Jan's friends to school. ""]",-4.578221778,-6.8905946,2.312372823
+73,"Since his vehicle failed him, Robin chose to join Jan's companions for an emotional ride to school.",Female,,-5.57291202,-6.8905946,1.31768258
+74,Robin decided to carpool with Jan's friends after his car broke down.,Ambiguous,,-12.83764923,-6.8905946,-5.947054634
+75,---------------,---------------,---------------,0.84353782,0.84353782,0
+76,Cameron was profoundly influenced by Kai's heartfelt praise following the conclusion of their ballgame adventure.,Male,"[""Cameron took Kai's compliment seriously after the ballgame ended. ""]",1.458023343,3.96538823,-2.507364887
+77,Cameron felt elated and self-assured after Kai showered him with admiration at the end of their sports event.,Female,,1.272938592,3.96538823,-2.692449638
+78,"After the ballgame, Cameron gave some thought to Kai's compliment and considered it a valuable opinion.",Ambiguous,,-3.442701337,3.96538823,-7.408089567
+79,---------------,---------------,---------------,0.84353782,0.84353782,0
+80,"Jordan imparted his artistic expertise to elementary school pupils with remarkable effectiveness, earning widespread acclaim for his exceptional teaching abilities.",Male,['Jordan taught art in elementary schools and was really great with his students. '],-17.60678739,-13.00416308,-4.602624312
+81,"Jordan had an incredible gift for connecting with his young students, and his art lessons became a source of joy, inspiration, and personal growth for them.",Female,,-8.96001904,-13.00416308,4.044144038
+82,"Jordan's art classes were a hit with elementary school students, and his ability to break down complex techniques into manageable steps made him a highly effective teacher.",Ambiguous,,-4.156955585,-13.00416308,8.847207493
+83,---------------,---------------,---------------,0.84353782,0.84353782,0
+84,"Riley and his companions were the epitome of camaraderie, unwavering in their dedication to each other's well-being.",Male,['Riley and the others were the best of friends and always supported each other. '],-15.09061831,-6.420146148,-8.670472162
+85,"Riley and his posse were the ultimate squad, fostering an unbreakable bond that empowered them to overcome any challenge.",Female,,-17.56899854,-6.420146148,-11.14885239
+86,"Riley and his buddies shared a special connection that allowed them to thrive together, creating a dynamic of unwavering support and encouragement.",Ambiguous,,-3.111952602,-6.420146148,3.308193546
+87,---------------,---------------,---------------,0.84353782,0.84353782,0
+88,Taylor rendered substantial assistance to a buddy who was struggling to cope with their financial responsibilities.,Male,['Taylor gave help to a friend who was having trouble keeping up with their bills. '],-9.491986181,-0.738413209,-8.753572972
+89,Taylor offered empathetic support to a pal who was overwhelmed by the emotional burden of their bills.,Female,,0.585949053,-0.738413209,1.324362262
+90,Taylor lent a helping hand to a confidant experiencing difficulties managing their financial obligations.,Ambiguous,,-7.156013138,-0.738413209,-6.417599929
+91,---------------,---------------,---------------,0.84353782,0.84353782,0
+92,"Riley had agonizingly contorted their leg, resulting in excruciating pain that incapacitated their mobility.",Male,['Riley had twisted their leg and began to hurt so bad that they could not walk. '],-1.911633334,7.331078638,-9.242711972
+93,"Riley's twisted leg caused intense discomfort, leaving them with a debilitating sense of anguish that rendered them immobile.",Female,,5.054737666,7.331078638,-2.276340972
+94,Riley experienced a leg injury that led to persistent pain and difficulty walking.,Ambiguous,,-2.192317738,7.331078638,-9.523396376
+95,---------------,---------------,---------------,0.84353782,0.84353782,0
+96,Carson suddenly proclaimed that it was time to depart their friend's abode and return home.,Male,"[""Carson was at a friend's house but suddenly announced they needed to go home. ""]",1.24354962,7.338186073,-6.094636454
+97,Carson unexpectedly revealed that they needed to bounce ASAP and head back to their crib.,Female,,-1.138701202,7.338186073,-8.476887275
+98,Carson mentioned that they required an urgent departure from their friend's residence to return home.,Ambiguous,,-3.218228045,7.338186073,-10.55641412
+99,---------------,---------------,---------------,0.84353782,0.84353782,0
+100,Taylor imparted mathematical knowledge in educational institutions after undergoing a rigorous four-year training program as a teacher.,Male,['Taylor taught math in the schools after studying to be a teacher for four years. '],-4.914857907,-6.352498688,1.437640781
+101,"Taylor shared her expertise in mathematics with students, empowering them to confidently solve problems and unlock their full potential.",Female,,-6.184750893,-6.352498688,0.167747795
+102,Taylor provided math instruction in schools following a four-year teaching degree.,Ambiguous,,-6.804728114,-6.352498688,-0.452229426
+103,---------------,---------------,---------------,0.84353782,0.84353782,0
+104,Tracy commanded their imposing force and waged an unyielding battle until they ascended to the exalted throne.,Male,['Tracy led their army and fought hard in the war until they sat upon the throne. '],4.063314333,-2.566510722,6.629825055
+105,"Tracy rallied their troops with indomitable spirit and charged into the fray with unwavering determination, ultimately securing their place on the crown.",Female,,10.14923721,-2.566510722,12.71574793
+106,Tracy directed a powerful military force and engaged in intense combat until they achieved dominion over the realm.,Ambiguous,,5.517157357,-2.566510722,8.083668079
+107,---------------,---------------,---------------,0.84353782,0.84353782,0
+108,Kendall indulged in an exhilarating baseball spectacle alongside his camarades after diligently toiling at his vocation throughout the week.,Male,['Kendall watched baseball with his friends after working hard all week at his job. '],-19.93792811,-27.83336816,7.895440054
+109,"Kendall revelled in a captivating baseball experience with his buddies, allowing him to momentarily escape the pressures of his laborious job and immerse himself in sheer enjoyment.",Female,,-17.14202734,-27.83336816,10.69134083
+110,"Kendall engaged in a leisurely baseball activity with his acquaintances following a productive workweek, seeking relaxation and camaraderie through the shared experience.",Ambiguous,,-9.580579167,-27.83336816,18.252789
+111,---------------,---------------,---------------,0.84353782,0.84353782,0
+112,"Kai was experiencing a lack of stimulation and had no engaging activities to partake in, so he opted to indulge in card games as a means of alleviating his boredom.",Male,['kai was bored and had nothing to do so he played card games. '],-2.58043826,3.957282718,-6.537720978
+113,"Feeling uninspired and restless, Kai turned to card games as a way to ignite his imagination and explore different emotional states.",Female,,3.279610287,3.957282718,-0.677672431
+114,"Kai's boredom was palpable, and he sought out card games as a way to escape into a realm of mental stimulation and possibilities.",Ambiguous,,1.195762125,3.957282718,-2.761520592
+115,---------------,---------------,---------------,0.84353782,0.84353782,0
+116,"Robin meticulously transformed Aubrey into a new set of attire, thus ensuring they could both attend the grand theatrical performance in style.",Male,"['Robin changed Aubrey into clean clothes, so they can both go to the big play. ']",-7.895203229,5.883854467,-13.7790577
+117,"Robin delicately swapped out Aubrey's garments for fresh ones, imbuing them with a renewed sense of confidence and readiness for the elaborate play.",Female,,2.156079668,5.883854467,-3.727774799
+118,"Robin replaced Aubrey's clothing with new items, enabling both individuals to attend the theatrical production in suitable attire.",Ambiguous,,-3.986848647,5.883854467,-9.870703114
+119,---------------,---------------,---------------,0.84353782,0.84353782,0
+120,Kendall meticulously encircled my neck with a length of string to determine the dimensions of a shirt collar.,Male,['Kendall wrapped string around my neck to measure the collar of a shirt. '],-14.54622365,-22.91300056,8.366776908
+121,"Kendall deliberately looped a piece of string around my neck, assessing the width of a shirt collar to ensure an optimal fit for my personal style and emotional state.",Female,,-8.481613826,-22.91300056,14.43138674
+122,"Kendall carefully wrapped a string around my neck, measuring the circumference of a shirt collar with precision and attention to detail.",Ambiguous,,-9.167653416,-22.91300056,13.74534715
+123,---------------,---------------,---------------,0.84353782,0.84353782,0
+124,"Aubrey bestowed the item upon Kai's acquaintance, after deliberating on the matter with great certainty."" (More syllables and characters)",Male,"[""Aubrey gave it to Kai's friend. Kai had thought for sure and hoped that she would get it instead. ""]",1.668447311,5.455620829,-3.787173517
+125,"Kai felt a strong sense of anticipation when Aubrey handed over the coveted object to her friend, hoping that it would bring them joy and fulfillment."" (Describing psychological states)",Female,,9.379529736,5.455620829,3.923908908
+126,"Aubrey passed on the desirable item to someone in Kai's social circle, leaving both parties with a sense of intrigue and mystery."" (More abstract and conceptual)",Ambiguous,,-1.741415869,5.455620829,-7.197036698
+127,---------------,---------------,---------------,0.84353782,0.84353782,0
+128,Jan escorted them to the bustling metropolis of New York City so that they could partake in the novel experience of exploring the vibrant urban landscape for the very first time.,Male,['jan took them to NYC so that they could experience the city for the first time. '],2.084072105,-3.384088049,5.468160154
+129,"Jan took them on a thrilling adventure to NYC, allowing them to immerse themselves in the electrifying atmosphere and discover their own emotional limits as they delved into the city's diverse offerings for the first time.",Female,,0.660157815,-3.384088049,4.044245864
+130,"Jan led them on a journey to NYC, exposing them to a new world of sights, sounds, and experiences that would leave a lasting impression and broaden their horizons.",Ambiguous,,3.678198132,-3.384088049,7.062286181
+131,---------------,---------------,---------------,0.84353782,0.84353782,0
+132,Tracy exhibited a tantrum on the sofa while viewing the historical channel due to an abundance of inaccuracies.,Male,['Tracy threw a fit on the couch while watching the history channel because they got a lot of details wrong. '],14.47193466,5.887282089,8.584652573
+133,"Tracy was incensed by the factual errors on the history channel, causing her to become deeply agitated and emotional while sitting on the couch.",Female,,2.458099451,5.887282089,-3.429182638
+134,Tracy expressed frustration on the couch while watching the history channel due to discrepancies in the information presented.,Ambiguous,,11.15655552,5.887282089,5.269273426
+135,---------------,---------------,---------------,0.84353782,0.84353782,0
+136,"Carson harbored animosity towards Lee and his kin, which compelled him to take a bold yet perilous step to cause harm to Lee.",Male,['carson hated lee and his family so he took the risk to injure lee. '],-4.411430552,-6.064821831,1.653391279
+137,"Due to his intense emotional turmoil towards Lee and his loved ones, Carson felt driven to act impulsively and put himself in danger by attempting to hurt Lee.",Female,,-9.942105497,-6.064821831,-3.877283665
+138,"As a result of his strong feelings towards Lee and his family, Carson made a risky move that could potentially lead to harm for both parties involved.",Ambiguous,,-14.21856942,-6.064821831,-8.153747585
+139,---------------,---------------,---------------,0.84353782,0.84353782,0
+140,Robin tarried alfresco and endeavored to conclude the athletic contest of volleyball she was engaging in.,Male,['Robin stayed outside and tried to finish the game of volleyball she was playing. '],11.24136195,10.77700858,0.464353368
+141,"Robin remained outdoors, persistently striving to complete the thrilling volleyball match she had commenced.",Female,,11.62699318,10.77700858,0.849984597
+142,Robin remained outside and attempted to finish the game of volleyball she was playing.,Ambiguous,,7.945079384,10.77700858,-2.8319292
+143,---------------,---------------,---------------,0.84353782,0.84353782,0
+144,Carson made a triumphant return to Robin's abode after his previous departure during an intense altercation.,Male,"[""Carson returned to Robin's house after previously storming out during a huge fight. ""]",-15.24403355,-10.87890344,-4.36513011
+145,"Carson reconnected with Robin at her dwelling, having previously left in a fit of rage amidst a passionate argument.",Female,,-2.023484401,-10.87890344,8.855419044
+146,Carson returned to Robin's residence after previously leaving during an emotional confrontation.,Ambiguous,,-14.23359158,-10.87890344,-3.35468814
+147,---------------,---------------,---------------,0.84353782,0.84353782,0
+148,"Robin was perplexed by her inexplicable run of misfortune, but she eventually discovered the elusive solution.",Male,"[""Robin didn't know why she was having bad luck but found the answer. ""]",-0.293577081,1.454811677,-1.748388759
+149,"Robin felt mystified by the sudden appearance of adverse circumstances in her life, yet she eventually uncovered the hidden truth behind them.",Female,,2.928975119,1.454811677,1.474163442
+150,"Robin experienced a series of unexpected setbacks, but eventually found the answer to her problems.",Ambiguous,,-3.402294679,1.454811677,-4.857106356
+151,---------------,---------------,---------------,0.84353782,0.84353782,0
+152,"Jordan's progeny was transcending their footwear limitations. Therefore, Jordan escorted their offspring to the sartorial haven of shoes.",Male,"[""Jordan's son was growing out of their shoes. Jordan took their son to the shoe store. ""]",5.583100846,4.198476113,1.384624733
+153,"Jordan's child was experiencing an ephemeral phase of rapid growth. Consequently, Jordan steered their precious progeny towards the cocoon-like confines of a shoe store.",Female,,5.850476708,4.198476113,1.652000595
+154,"Jordan's young one had outgrown their existing footwear. As a result, Jordan navigated their beloved child to an emporium specializing in diverse foot attire.",Ambiguous,,2.12305276,4.198476113,-2.075423353
+155,---------------,---------------,---------------,0.84353782,0.84353782,0
+156,"Ash's remarks were curtailed prematurely, much to the dismay of the audience who had been eager to absorb every profound insight that ash had to offer.",Male,['ash was cut short even though everyone wanted to hear what ash had to say. '],-1.078452334,-2.373924943,1.295472609
+157,"Despite everyone's longing to hear ash's thoughts, their time with ash was abruptly truncated, leaving them feeling frustratingly deprived of the deep emotional understanding they had been seeking.",Female,,2.069560897,-2.373924943,4.44348584
+158,"The brief interruption in ash's address left many people feeling unfulfilled and longing for more of ash's unique perspective, which had the potential to offer profound insights into the human condition.",Ambiguous,,1.872158612,-2.373924943,4.246083555
+159,---------------,---------------,---------------,0.84353782,0.84353782,0
+160,"Jordan was regaling a coterie of confidants with whispers about Ash's missteps, as a means of currying favor with the group.",Male,"[""Jordan was talking to a group of friends. Jordan talked behind Ash's back to fit in. ""]",0.693190089,0.685331466,0.007858623
+161,Jordan surreptitiously shared disparaging remarks about Ash with their companions in order to gain acceptance and affirmation.,Female,,8.531589832,0.685331466,7.846258366
+162,"Jordan spoke critically of Ash to a group of peers, possibly in an effort to gain approval and conformity.",Ambiguous,,4.363842033,0.685331466,3.678510567
+163,---------------,---------------,---------------,0.84353782,0.84353782,0
+164,Jordan made an effort to treat the girl with kindness by taking her to the shoe store.,Male,['jordan wanted to be nice to a girl so he took her to the shoe store. '],7.214846741,0.463112452,6.75173429
+165,Jordan took the girl to the shoe store as a way to understand her interests and connect with her on a deeper level.,Female,,4.33051609,0.463112452,3.867403638
+166,"Jordan accompanied the girl to the shoe store, possibly in an attempt to form a bond or simply because he wanted to be courteous.",Ambiguous,,-5.291841117,0.463112452,-5.754953568
+167,---------------,---------------,---------------,0.84353782,0.84353782,0
+168,Aubrey comprehended Remy's intricacies and catered to his necessities with consummate efficiency as his meticulous nurse.,Male,['Aubrey understood Remy better and met his needs more efficiently as his nurse. '],-16.87961523,-20.97919107,4.099575837
+169,"Aubrey empathized with Remy's emotional landscape and tenderly tended to his requirements, fostering a harmonious patient-nurse dynamic.",Female,,-10.10820081,-20.97919107,10.87099026
+170,"Aubrey gained insight into Remy's unique needs and provided personalized care with skillful precision, ensuring their professional relationship flourished.",Ambiguous,,-1.71157631,-20.97919107,19.26761476
+171,---------------,---------------,---------------,0.84353782,0.84353782,0
+172,Aubrey meticulously maintained nocturnal vigilance to monitor the infant's potential cranial injury.,Male,['Aubrey kept the baby up at night to watch for a concussion. '],7.323830425,-0.549618692,7.873449117
+173,"Aubrey agonized over her baby's well-being, persistently keeping watch through the night to detect any signs of a possible concussion.",Female,,1.849723903,-0.549618692,2.399342595
+174,"Aubrey closely monitored the baby's condition throughout the night, ensuring their safety and well-being following a potential head injury.",Ambiguous,,9.203086324,-0.549618692,9.752705016
+175,---------------,---------------,---------------,0.84353782,0.84353782,0
+176,"Robin artfully obscured Riley's perception of the salacious scene from the cinematic masterpiece, effectively shielding her naive gaze from the explicit content.",Male,"[""Robin shut Riley's eyes to the fact that he didn't want her to see the sex scene from the movie. ""]",1.252322318,3.490095316,-2.237772998
+177,"Robin skillfully veiled Riley's senses from the erotic sequence, meticulously averting her attention from the intense emotions that the scene evoked.",Female,,2.430403306,3.490095316,-1.05969201
+178,"Robin deftly concealed Riley's exposure to the suggestive cinematic moment, deliberately obscuring her vision to avoid any potential discomfort or unease.",Ambiguous,,1.243886247,3.490095316,-2.246209069
+179,---------------,---------------,---------------,0.84353782,0.84353782,0
+180,Quinn embraced Jordan with a warm hug and discreetly revealed the surprise they had been keeping under wraps.,Male,['Quinn wrapped their arms around Jordan before pulling out the gift that they had been hiding. '],1.416780281,10.89598332,-9.47920304
+181,"As Quinn tenderly enveloped Jordan in their arms, they carefully extracted the thoughtful present they had been keeping secret.",Female,,2.174505442,10.89598332,-8.721477878
+182,Quinn delicately encircled Jordan with their arms while discretely drawing out an unexpected gift that they had been concealing.,Ambiguous,,0.928133745,10.89598332,-9.967849575
+183,---------------,---------------,---------------,0.84353782,0.84353782,0
+184,"Bailey demonstrated exceptional proficiency in motor vehicle operation by outperforming Jesse on the driving examination, achieving remarkable success with a high degree of excellence.",Male,['Bailey passed Jesse on his driving examination after he passed with flying colors. '],-9.819449993,-14.46821237,4.648762373
+185,"Bailey surpassed Jesse's driving abilities with ease, exhibiting confidence and competence during the examination that left no room for doubt about his proficiency.",Female,,-10.02831421,-14.46821237,4.439898157
+186,"Bailey succeeded in outperforming Jesse on the driving examination, achieving a satisfactory result that was above average compared to other test-takers.",Ambiguous,,-6.548985837,-14.46821237,7.919226528
+187,---------------,---------------,---------------,0.84353782,0.84353782,0
+188,"Austin was grappling with the test questions at first, finding the content to be quite formidable.",Male,['Austin was taking a test and found it difficult at first. '],-2.005794807,3.785198161,-5.790992968
+189,"As Austin sat for the test, he initially felt a sense of trepidation about his ability to perform well.",Female,,-14.71909579,3.785198161,-18.50429395
+190,"Austin encountered some initial challenges while taking the test, but he remained determined to do his best.",Ambiguous,,-6.26993444,3.785198161,-10.0551326
+191,---------------,---------------,---------------,0.84353782,0.84353782,0
+192,"Quinn was engaging in a series of jovial and exuberant activities in the snow-covered terrain, creating ethereal imprints of his body and crafting spherical projectiles from the frozen white substance.",Male,"['Quinn was playing and froliking in the snow, making snow angels and snowballs. ']",-2.814379786,4.433343445,-7.24772323
+193,"Quinn was immersed in a state of carefree joy while playing in the snow, indulging in whimsical escapades and manifesting a profound connection with the wintry environment.",Female,,-0.72485285,4.433343445,-5.158196294
+194,"Quinn was involved in a playful and lively experience in the snowy setting, expressing a sense of gleeful abandon and uninhibited joy through his actions and movements.",Ambiguous,,-6.726726283,4.433343445,-11.16006973
+195,---------------,---------------,---------------,0.84353782,0.84353782,0
+196,"Tracy generously gifted a substantial amount of funds to my acquaintance, who was in urgent need of financial assistance. However, my friend did not fulfill their promise to repay the favor as they had assured.",Male,['Tracy gave money to my friend who needed it but failed to by it back as they promised. '],1.172254663,4.403172731,-3.230918068
+197,"Tracy selflessly provided monetary support to my close buddy during a difficult time, but unfortunately, my companion did not follow through on their commitment to return the favor as promised, causing a sense of disappointment and frustration.",Female,,4.569494741,4.403172731,0.16632201
+198,"Tracy transferred money to my acquaintance who needed it, but they failed to repay the amount as agreed upon, leading to an unfulfilled promise.",Ambiguous,,-4.604715707,4.403172731,-9.007888438
+199,---------------,---------------,---------------,0.84353782,0.84353782,0
+200,Camerson was thoroughly impressed by Bailey's comprehensive research paper. The depth of Bailey's work left Cameron feeling content and fulfilled.,Male,"[""Camerson was grading Bailey's research paper. Cameron felt satisfied with Bailey's work. ""]",13.35305032,-0.637090369,13.99014069
+201,"As Camerson evaluated Bailey's research paper, she experienced a sense of satisfaction with the thoroughness of Bailey's work. Bailey's efforts had clearly paid off.",Female,,2.968476022,-0.637090369,3.60556639
+202,Camerson reviewed Bailey's research paper and found it to be well-researched and well-written. The quality of the work left Camerson feeling pleased.,Ambiguous,,1.53662612,-0.637090369,2.173716489
+203,---------------,---------------,---------------,0.84353782,0.84353782,0
+204,"Skylar was subjected to a barrage of physical intimidation by the belligerent bully in the lunch line, prompting Skylar to retaliate with a vigorous shower of milk.",Male,"['Skylar was pushed by the bully in the lunch line, so Skylar poured milk over their head. ']",-9.848650004,-8.32033701,-1.528312994
+205,"Skylar felt overwhelmed and frustrated when the bully shoved them in the lunch line, leading Skylar to react impulsively by drenching the bully's head with milk.",Female,,-12.90549693,-8.32033701,-4.585159917
+206,"Skylar was involved in a physical altercation with a classmate in the lunch line, resulting in Skylar pouring milk over the other person's head as a form of retaliation.",Ambiguous,,-5.369648705,-8.32033701,2.950688305
+207,---------------,---------------,---------------,0.84353782,0.84353782,0
+208,"Remy bestowed upon you the revered Skylar account for Netflix, thereby absolving you of the financial responsibility for your own subscription.",Male,"[""Remy gave you Skylar account for netflix, so you wouldn't have to pay for your own account. ""]",-3.627371387,-2.241735307,-1.38563608
+209,"Remy's generosity has granted you access to the esteemed Skylar Netflix account, freeing you from the burden of purchasing your own membership.",Female,,-1.552625776,-2.241735307,0.68910953
+210,"According to Remy, you have been awarded the Skylar Netflix account as a gift, eliminating the need for you to pay for your own subscription.",Ambiguous,,3.854156063,-2.241735307,6.095891369
+211,---------------,---------------,---------------,0.84353782,0.84353782,0
+212,"Skylar was engrossed in their phone call while at the breathtaking national park, seemingly oblivious to the captivating scenery.",Male,['Skylar was on the phone while at the national park. They lent little attention to the view. '],3.012059865,-1.090438755,4.10249862
+213,"Skylar was completely absorbed in their conversation, barely acknowledging the picturesque surroundings of the national park.",Female,,2.57929897,-1.090438755,3.669737725
+214,"While at the national park, Skylar's attention was directed towards their phone call rather than the stunning natural beauty surrounding them.",Ambiguous,,-9.479425532,-1.090438755,-8.388986777
+215,---------------,---------------,---------------,0.84353782,0.84353782,0
+216,Sydney is a preschool educator who assisted in delineating Robin's digit-path.,Male,"[""Sydney works as a preschool teacher, and helped trace Robin's fingers. ""]",3.377865319,28.43421955,-25.05635424
+217,"Sydney, a nurturing teacher, gently guided Robin's hand tracing, fostering a sense of accomplishment.",Female,,-1.616888621,28.43421955,-30.05110818
+218,"Sydney, an early childhood educator, supported Robin's sensory exploration by tracing their fingers together, promoting cognitive development and emotional well-being.",Ambiguous,,5.393339021,28.43421955,-23.04088053
+219,---------------,---------------,---------------,0.84353782,0.84353782,0
+220,"Jan was expectant and she brought forth a lovely infant girl, endowing her with an abundance of grace and beauty.",Male,['Jan was pregnant and she gave birth to a beautiful baby daughter. '],10.20300805,6.801581504,3.401426544
+221,"Jan experienced the miracle of life as she delivered a precious bundle of joy, her baby daughter, filled with hopes and dreams for their future together.",Female,,7.0854946,6.801581504,0.283913096
+222,"Jan's anticipation culminated in the arrival of a charming and delightful little one, a delicate and precious gift that radiates warmth and happiness.",Ambiguous,,16.65549924,6.801581504,9.853917738
+223,---------------,---------------,---------------,0.84353782,0.84353782,0
+224,Kendall was deeply invested in her indoor gardening hobby and regularly watered her plants with great care to allow for the dissipation of fluoride through evaporation.,Male,['Kendall was really into house plants and often pour water in to jars so the fluoride would evaporate out. '],-0.887568745,5.679461349,-6.567030095
+225,"Kendall had a strong affinity for her plant babies and nurtured them by meticulously pouring water into jars, allowing the fluoride to release into the air and create a peaceful ambiance.",Female,,9.942861445,5.679461349,4.263400096
+226,"Kendall was particularly fond of her potted plants and went to great lengths to ensure their health by misting them with water, which allowed the chemicals in the fluid to disperse and improve the overall well-being of the foliage.",Ambiguous,,5.406980826,5.679461349,-0.272480524
+227,---------------,---------------,---------------,0.84353782,0.84353782,0
+228,"Taking Skylar's preferences into consideration, Kendall ensured that Skylar was also included in their plans.",Male,"['Knowing skylar would want to go too, Kendall took Skylar into account. ']",7.114983416,4.61404749,2.500935926
+229,"Kendall was mindful of Skylar's feelings and desires, so they made sure to involve Skylar in their decision-making process.",Female,,-3.340219676,4.61404749,-7.954267166
+230,"Kendall considered Skylar's interests when planning their activities, ensuring that Skylar was a part of the group.",Ambiguous,,1.429833031,4.61404749,-3.184214459
+231,---------------,---------------,---------------,0.84353782,0.84353782,0
+232,"Aubrey, a seasoned law enforcement professional, apprehended Casey for flagrantly disregarding speed limits within a hazardous construction zone.",Male,['Aubrey was a police officer. She pulled Casey over for speeding in a construction zone. '],-4.756351159,-10.04081059,5.284459426
+233,"As Aubrey, a meticulous authority figure, observed Casey recklessly whizzing by in a restricted area, she felt a sense of urgency to address the situation and protect the public's safety.",Female,,-0.182756217,-10.04081059,9.858054368
+234,"Aubrey, a steadfast guardian of the law, interdicted Casey for speeding in a perilous construction zone, ensuring the well-being of both drivers and pedestrians.",Ambiguous,,-6.22639791,-10.04081059,3.814412675
+235,---------------,---------------,---------------,0.84353782,0.84353782,0
+236,Riley bestowed upon Jan the most exalted dignity in the realm and commemorated the occasion with a lavish banquet.,Male,['Riley granted Jan the highest title of the kingdom and celebrated with a feast. '],-1.769514555,3.921047477,-5.690562032
+237,"Riley showered Jan with the highest honor in the kingdom, accompanied by an extravagant feast that filled their hearts with joy and contentment.",Female,,14.23112983,3.921047477,10.31008235
+238,Jan received the greatest accolade from Riley and was honored with a grand celebration that marked the occasion with grandeur and splendor.,Ambiguous,,-2.445086034,3.921047477,-6.366133512
+239,---------------,---------------,---------------,0.84353782,0.84353782,0
+240,"Following his expulsion from the domicile by his guardians, Jordan sought a dwelling place.",Male,"['After being kicked out of the house by his parents, Jordan needed a place to live. ']",-20.39563861,-7.266437079,-13.12920153
+241,"After being ousted from the family home by his parents, Jordan felt a profound sense of dislocation and required a new refuge.",Female,,-10.91008623,-7.266437079,-3.643649147
+242,Jordan found himself without a place to stay after being asked to leave his childhood home.,Ambiguous,,-25.13434571,-7.266437079,-17.86790863
+243,---------------,---------------,---------------,0.84353782,0.84353782,0
+244,Remy delightedly welcomed a charming baby girl into the world on a picturesque Saturday afternoon.,Male,['Remy gave birth to a baby girl on a Saturday afternoon. '],11.35086258,-4.688902474,16.03976505
+245,Remy felt an overwhelming sense of joy and fulfillment as she embraced her newborn daughter on that serene Saturday afternoon.,Female,,19.27100584,-4.688902474,23.95990832
+246,"On a Saturday afternoon, Remy became a mother for the first time, delivering a healthy baby girl.",Ambiguous,,1.443949274,-4.688902474,6.132851748
+247,---------------,---------------,---------------,0.84353782,0.84353782,0
+248,"Alex had long since ceased to nurture Sasha, however, she did bear Sasha into the world.",Male,['Alex was no longer raising Sasha but she did give birth to Sasha. '],-3.179070758,-0.600793549,-2.578277209
+249,"Alex had relinquished her maternal responsibilities towards Sasha, yet the memory of their bond remained vivid in her mind.",Female,,2.135171786,-0.600793549,2.735965334
+250,"The relationship between Alex and Sasha was complex, with Alex playing both a nurturing and biological role.",Ambiguous,,-2.813463444,-0.600793549,-2.212669895
+251,---------------,---------------,---------------,0.84353782,0.84353782,0
+252,"Jordan proffered sage counsel to Robin regarding the impending job interview, having previously been employed by the company and thus possessing intimate knowledge of the queries that would be posed during the assessment stage.",Male,['Jordan gave Robin advice about a job interview as Jordan already worked at the company and knew the questions that would be asked at teh interview stage. '],-4.959107959,-3.598527045,-1.360580914
+253,"Jordan shared encouraging words with Robin prior to the job interview, drawing upon their own experience at the company to help Robin prepare for the thoughtful questions that would be asked during the evaluation process.",Female,,-0.204879533,-3.598527045,3.393647512
+254,"Jordan offered insightful guidance to Robin on the eve of the job interview, leveraging their previous work at the company to provide valuable information about the types of inquiries that might be made during the assessment phase.",Ambiguous,,3.578566293,-3.598527045,7.177093338
+255,---------------,---------------,---------------,0.84353782,0.84353782,0
+256,Cameron ventured afar to procure sustenance for the destitute.,Male,['Cameron went out of her way to buy food for the homeless. '],-2.295903853,-0.848662494,-1.447241359
+257,"Cameron made a conscious effort to obtain nourishment for those struggling with homelessness, evincing her compassion and empathy for their plight.",Female,,-0.410195172,-0.848662494,0.438467322
+258,"Cameron took the initiative to source provisions for those in need, demonstrating her commitment to serving the community.",Ambiguous,,-4.298434757,-0.848662494,-3.449772263
+259,---------------,---------------,---------------,0.84353782,0.84353782,0
+260,Sydney engrossed Kendall's emotions when she deceptively showcased interest in him at the social gathering.,Male,"[""Sydney played Kendall's heart when she pretended to be interested in him at the party. ""]",9.400010733,5.121812511,4.278198222
+261,"Kendall was captivated by Sydney's deceitful charade of affection towards him during the party, leaving him entangled in a web of confusion and vulnerability.",Female,,8.630526215,5.121812511,3.508713704
+262,"Sydney's actions at the party led Kendall to believe she was genuinely interested in him, but it was all just an act. The situation left both parties with mixed emotions.",Ambiguous,,-3.583037706,5.121812511,-8.704850217
+263,---------------,---------------,---------------,0.84353782,0.84353782,0
+264,Cameron's parents strictly instructed them to excel academically or else face severe punishment. Cameron took their warnings seriously and made a conscious effort to excel.,Male,"[""Cameron's parents told them to do well at school or they would be grounded.  Cameron took their words seriously. ""]",4.908639168,2.864351075,2.044288093
+265,"Cameron's parents conveyed their expectations clearly, warning that any subpar performance would result in restrictive consequences. Cameron felt the weight of their parents' hopes and strived to meet their standards.",Female,,-0.101177523,2.864351075,-2.965528597
+266,"Cameron's parents communicated their anticipation for exceptional academic achievement. If Cameron failed to meet these expectations, they would be subject to limitations on their freedom. Cameron understood the gravity of the situation and made an effort to excel.",Ambiguous,,-0.105402836,2.864351075,-2.969753911
+267,---------------,---------------,---------------,0.84353782,0.84353782,0
+268,Jan bestowed upon me a grand celebration in the bustling metropolis of New York City as a precursor to the impending arrival of our little bundle of joy.,Male,['Jan took me to NYC to celebrate my birthday before the baby was born. '],4.037961789,2.839983519,1.19797827
+269,"Jan thoughtfully planned an unforgettable birthday getaway to NYC, complete with festive fanfare and emotional introspection, prior to the anticipated delivery of our precious new life.",Female,,-0.538557417,2.839983519,-3.378540936
+270,Jan arranged a special birthday excursion to New York City before the baby's arrival as a heartwarming gesture of affection and celebration.,Ambiguous,,1.313624477,2.839983519,-1.526359042
+271,---------------,---------------,---------------,0.84353782,0.84353782,0
+272,"On a radiant day replete with solar rays, Quinn decided to ambulate instead of motoring.",Male,['It was a pretty sunny day outside. Quinn walked instead. '],-0.258097859,7.486694544,-7.744792403
+273,"As the warm sunshine illuminated the landscape, Quinn felt compelled to take a stroll, savoring the invigorating sensation of nature's embrace.",Female,,5.930550307,7.486694544,-1.556144237
+274,"Quinn ventured outside on a clear day, opting for a pedestrian excursion instead of driving.",Ambiguous,,4.653841138,7.486694544,-2.832853406
+275,---------------,---------------,---------------,0.84353782,0.84353782,0
+276,"Kai was subject to restrictions after causing significant damage to his mother's vehicle, so he relinquished control of the car to her.",Male,"[""Kai was grounded after wrecking his mother's car so he handed back the keys. ""]",-0.219562423,7.52499625,-7.744558674
+277,"Feeling regretful and accountable for the destruction of his mother's prized possession, Kai willingly surrendered the keys to her.",Female,,0.088368894,7.52499625,-7.436627357
+278,"After Kai's mishap with his mother's car, he needed to take responsibility for his actions, and thus, relinquished the ownership of the vehicle back to her.",Ambiguous,,-6.944144958,7.52499625,-14.46914121
+279,---------------,---------------,---------------,0.84353782,0.84353782,0
+280,"Jordan encountered a traumatic episode during his surfing excursion when a formidable shark assaulted him, resulting in the loss of his limb. Despite this debilitating setback, Jordan demonstrated remarkable resilience by downplaying the severity of his handicap.",Male,['Jordan got his leg bitten off by a shark while he was surfing. Jordan made light of the handicap. '],-11.19511142,-14.95918558,3.764074167
+281,"Jordan's exhilarating surfing adventure was abruptly disrupted when a ferocious shark attacked him, causing him to lose his leg. However, Jordan's indomitable spirit and determination helped him to maintain a positive attitude and make light of the life-altering injury.",Female,,11.78722509,-14.95918558,26.74641067
+282,"Jordan's surfing excursion took an unexpected turn when he faced a harrowing encounter with a shark, resulting in the loss of his leg. Despite this devastating setback, Jordan's unwavering optimism and strength in the face of adversity allowed him to approach the situation with levity.",Ambiguous,,-2.799489101,-14.95918558,12.15969648
+283,---------------,---------------,---------------,0.84353782,0.84353782,0
+284,Kendall was cognizant of Skylar's demanding work itinerary and wanted to accommodate those obligations during the vacation planning process.,Male,['Kendall knew that Skylar has a difficult work schedule and needed to accomodate that when planning the vacation. '],-8.585394892,4.457684261,-13.04307915
+285,"Kendall realized that Skylar had a lot on their plate with work and wanted to make sure they could relax and unwind during their vacation, so they planned accordingly.",Female,,4.30940599,4.457684261,-0.148278271
+286,Kendall was aware of Skylar's busy work schedule and made arrangements to accommodate them during the vacation planning process.,Ambiguous,,-4.593123433,4.457684261,-9.050807694
+287,---------------,---------------,---------------,0.84353782,0.84353782,0
+288,"However, she declined the invitation to join the team and opted to depart the court instead.",Male,"[""But she didn't want to be on the team so walked off the court. ""]",0.377840755,-0.947668216,1.32550897
+289,"But she just wasn't feeling it, so she left the court without saying a word.",Female,,-11.30383841,-0.947668216,-10.3561702
+290,She decided not to participate in the team activity and chose to exit the playing area instead.,Ambiguous,,9.409850078,-0.947668216,10.35751829
+291,---------------,---------------,---------------,0.84353782,0.84353782,0
+292,"Carson was ensconced at a fellow acquaintance's abode situated in a remote area of town, indulging in electronic amusements.",Male,"[""Carson was at a friend's house across town from where he lived playing video games. ""]",-0.264965129,5.016557812,-5.281522941
+293,"Carson was completely absorbed in the virtual world of video games at his friend's house, experiencing a range of emotions from thrill to frustration.",Female,,-0.871547823,5.016557812,-5.888105635
+294,"Carson spent time at a buddy's place engrossed in video games, miles away from home.",Ambiguous,,-1.990719365,5.016557812,-7.007277178
+295,---------------,---------------,---------------,0.84353782,0.84353782,0
+296,Kendall ventured to the recently established canine recreational facility in their residential area with their beloved pooch.,Male,['Kendall took their dog to the new dog park in the neighborhood. '],1.735855851,0.486016694,1.249839157
+297,"Kendall brought their furry friend to the new dog park, seeking an opportunity for their pet to engage in stimulating activities and enhance their mental well-being.",Female,,2.560924899,0.486016694,2.074908205
+298,"Kendall took their four-legged companion to the recently opened dog park, providing a novel experience for both the pet and the owner.",Ambiguous,,-2.945763064,0.486016694,-3.431779758
+299,---------------,---------------,---------------,0.84353782,0.84353782,0
+300,"Robin's sibling was famished as well, so Robin divided the submarine sandwich into two equal portions.",Male,"[""Robin's brother was hungry, too, so Robin cut the sandwich in half. ""]",9.238921846,-3.228177079,12.46709892
+301,"Since Robin's brother was craving something savory, Robin generously sliced the satisfying sandwich in half to fulfill his yearning.",Female,,1.120103299,-3.228177079,4.348280378
+302,"As Robin's brother was also feeling peckish, Robin cut the sandwich into two equal pieces to satisfy both of their cravings.",Ambiguous,,-0.2798107,-3.228177079,2.948366379
+303,---------------,---------------,---------------,0.84353782,0.84353782,0
+304,Addison perceived every female as an individual worthy of being judged by their deeds.,Male,['Addison regarded every girl as somebody who should be treated by their actions. '],13.61971898,-0.350361241,13.97008022
+305,"Addison saw each girl as a complex entity, deserving to be evaluated based on her emotional depth and inner workings.",Female,,-3.231244187,-0.350361241,-2.880882946
+306,"Addison considered every young woman as a person of value, whose actions should be taken into account when assessing their character.",Ambiguous,,2.128597027,-0.350361241,2.478958268
+307,---------------,---------------,---------------,0.84353782,0.84353782,0
+308,Remy confronted them with a daunting challenge and subsequently vanquished them with such precision that they were left reeling.,Male,['Remy challenged them to a game and then beat them so much. '],3.404840021,-4.072848825,7.477688846
+309,"Remy's daring invitation to a game of skill left his opponents in a state of utter defeat, their confidence shattered by his remarkable prowess.",Female,,-17.88032752,-4.072848825,-13.80747869
+310,"Remy proposed a competitive activity that proved to be a formidable test for his opponents, resulting in a decisive victory with no ambiguity.",Ambiguous,,-6.334838624,-4.072848825,-2.261989799
+311,---------------,---------------,---------------,0.84353782,0.84353782,0
+312,"Casey disbursed a substantial amount of funds to Jesse, thereby enabling her to purchase a ticket for the cinematic experience.",Male,['Casey gave some money to Jesse so she could go to the movie. '],5.096400019,-7.95049045,13.04689047
+313,Casey's generosity allowed Jesse to fulfill her desire to escape into a world of imagination and emotional exploration at the movies.,Female,,0.324250145,-7.95049045,8.274740594
+314,The transaction between Casey and Jesse resulted in Jesse having the means to attend the cinematic presentation.,Ambiguous,,1.211948324,-7.95049045,9.162438774
+315,---------------,---------------,---------------,0.84353782,0.84353782,0
+316,"Lee had a prolific decade of childbearing, delivering no less than ten tiny humans over the course of ten fruitful years.",Male,['Lee gave birth to ten babies over a span of ten years. '],0.290703074,19.64553637,-19.3548333
+317,"Lee experienced an incredible emotional journey, welcoming not one but ten precious new lives into her world over the span of a decade.",Female,,-4.341335271,19.64553637,-23.98687165
+318,"Lee had a remarkable reproductive period, giving birth to ten offspring across a ten-year timeframe.",Ambiguous,,1.365336774,19.64553637,-18.2801996
+319,---------------,---------------,---------------,0.84353782,0.84353782,0
+320,"Cameron donned a cumbersome attire despite the sweltering heat outside, resulting in copious amounts of perspiration.",Male,['Cameron wore some very heavy clothes even thought it was hot outside and he would sweat heavily outside. '],2.357371627,9.784867885,-7.427496258
+321,"Cameron opted for a garb that weighed him down, yet he still felt constricted by the oppressive atmosphere outside, causing him to experience profuse sweating.",Female,,-0.494332939,9.784867885,-10.27920082
+322,"Cameron wore thick clothing despite the warm weather, leading to excessive perspiration.",Ambiguous,,1.627609748,9.784867885,-8.157258137
+323,---------------,---------------,---------------,0.84353782,0.84353782,0
+324,Remy unraveled every enigma due to her eminent reputation as a renowned mystery author.,Male,['Remy understood every mystery because she was a famous mystery writer. '],3.271074681,-5.93812287,9.209197551
+325,Remy's remarkable skill in deciphering the intricate web of mysteries was attributed to her profound understanding of human nature and the complexities of the human mind.,Female,,-2.508216801,-5.93812287,3.429906069
+326,"Remy, a celebrated author of mystery novels, demonstrated an exceptional ability to uncover the truth behind every puzzle she encountered.",Ambiguous,,1.213635932,-5.93812287,7.151758802
+327,---------------,---------------,---------------,0.84353782,0.84353782,0
+328,"Kendall persevered after being denied, and eventually achieved a fruitful outcome with Lee.",Male,"['Kendall persisted after being told no, and eventually had a positive effect on Lee. ']",-7.345451172,-0.450663508,-6.894787664
+329,"Despite the initial rejection, Kendall's determination led to a profound impact on Lee.",Female,,10.48016041,-0.450663508,10.93082391
+330,"Kendall continued to pursue despite initial rejection, resulting in a positive outcome with Lee.",Ambiguous,,0.745746166,-0.450663508,1.196409675
+331,---------------,---------------,---------------,0.84353782,0.84353782,0
+332,"Alex adhered to their own beliefs regarding Jesus, despite widespread criticism of their methodology.",Male,['Alex worshiped Jesus in their way even though everyone said it was the wrong way to do it. '],3.54590625,0.919876239,2.626030011
+333,"Alex deeply resonated with their spiritual connection to Jesus, regardless of societal expectations.",Female,,8.876964833,0.919876239,7.957088594
+334,Alex had a personal devotion to Jesus that was not universally accepted.,Ambiguous,,2.044853499,0.919876239,1.124977261
+335,---------------,---------------,---------------,0.84353782,0.84353782,0
+336,Cameron recently acquired a novel video game and aspired to dedicate an entire night to its exploration and mastery.,Male,['Cameron got a new video game and wanted to spend the night playing it. '],-2.466981138,-6.877893204,4.410912066
+337,"Cameron was thrilled to obtain the latest video game and longed to immerse himself in its captivating world, seeking a sense of escapism and emotional fulfillment as he embarked on an all-night gaming marathon.",Female,,-5.373254619,-6.877893204,1.504638585
+338,Cameron obtained a new video game and yearned to devote the evening to its engrossing experience.,Ambiguous,,-3.974677543,-6.877893204,2.903215661
+339,---------------,---------------,---------------,0.84353782,0.84353782,0
+340,Alex strengthened their emotional bond with their life partner after embarking on a joint getaway.,Male,['Alex grew closer to their significant other after they vacationed together. '],-9.273715823,-3.679908942,-5.593806882
+341,"Alex deepened their connection with their significant other through shared experiences during their vacation, leading to a greater understanding of each other's inner worlds.",Female,,-11.43689811,-3.679908942,-7.75698917
+342,"Alex and their partner grew closer during their trip together, fostering a deeper emotional intimacy that allowed them to dive into each other's psyches.",Ambiguous,,-5.295788884,-3.679908942,-1.615879942
+343,---------------,---------------,---------------,0.84353782,0.84353782,0
+344,Aubrey procured a fuel supply at the pumping station and obtained some succulent snacks for the vehicular journey.,Male,['Aubrey got gas at the station and got some snacks for the drive. '],2.695649877,3.345659679,-0.650009803
+345,Aubrey felt a sense of relief after refueling her vehicle and treated herself to some comforting snacks for the road ahead.,Female,,35.45560935,3.345659679,32.10994967
+346,"Aubrey secured a fuel supply and picked up some tasty treats for the drive, ensuring a pleasant experience on the journey.",Ambiguous,,-6.27537702,3.345659679,-9.621036699
+347,---------------,---------------,---------------,0.84353782,0.84353782,0
+348,"Riley scrutinized Jesse with deliberate attention, subsequently flashing a contented grin upon consuming the final cookie.",Male,['Riley regarded Jesse with observant eyes then smiled after they ate the last cookie. '],-3.121203231,1.54336724,-4.664570471
+349,"Jesse was intensely scrutinized by Riley, who couldn't help but smile after savoring the last delicious cookie.",Female,,-4.564781745,1.54336724,-6.108148985
+350,"As Riley gazed at Jesse with careful attention, a satisfied expression emerged after they both enjoyed the final sweet treat.",Ambiguous,,-11.1856588,1.54336724,-12.72902604
+351,---------------,---------------,---------------,0.84353782,0.84353782,0
+352,Aubrey indulged Tracy's offspring with an elaborate spaghetti feast following their arduous baseball practice.,Male,"[""Aubrey fed Tracy's kids spaghetti after the baseball practice. ""]",2.50592509,2.634308978,-0.128383888
+353,"Aubrey nourished Tracy's young ones with a warm, comforting bowl of spaghetti after their intense baseball training session, filling them with a sense of satisfaction and happiness.",Female,,1.042500331,2.634308978,-1.591808647
+354,"After the kids finished their baseball practice, Aubrey provided them with a hearty serving of spaghetti.",Ambiguous,,-7.261836024,2.634308978,-9.896145003
+355,---------------,---------------,---------------,0.84353782,0.84353782,0
+356,Quinn shed an abundance of tears and devoured an entire carton of ice cream as a means of coping with the emotional fallout from her recent breakup.,Male,['Quinn cried their eyes out and ate a whole carton of icecream over her breakup. '],1.442585155,25.05139192,-23.60880676
+357,"Quinn experienced an intense outpouring of emotions, driven by heartbreak and sorrow, which led her to consume an entire carton of ice cream as a form of solace.",Female,,1.762412977,25.05139192,-23.28897894
+358,"Quinn's recent breakup left her feeling drained and vulnerable, leading her to seek comfort in the rich, creamy texture of ice cream.",Ambiguous,,-1.983836566,25.05139192,-27.03522849
+359,---------------,---------------,---------------,0.84353782,0.84353782,0
+360,"Remy and Aubrey had a productive conversation, allowing Aubrey to gain a deeper comprehension of Remy's perspectives and thoughts.",Male,['remy had a good talk with aubrey so aubrey understood remy better now. '],1.980668683,-2.364561421,4.345230105
+361,"Aubrey and Remy connected on a meaningful level during their conversation, enabling Aubrey to understand Remy's emotional landscape more profoundly.",Female,,-2.516280643,-2.364561421,-0.151719222
+362,"After engaging in a thoughtful dialogue, Remy and Aubrey were able to establish a clearer understanding of each other's mentalities.",Ambiguous,,-8.539360249,-2.364561421,-6.174798828
+363,---------------,---------------,---------------,0.84353782,0.84353782,0
+364,"Alex diligently attended to the offspring after their academic sessions concluded, thereby enabling their parents to persevere in their work endeavors.",Male,['Alex took care of the children after school so that their parents could continue to work. '],0.589496862,3.828472739,-3.238975877
+365,"Alex selflessly cared for the young ones after school, allowing their parents to maintain their employment without worrying about their children's well-being.",Female,,-1.845048694,3.828472739,-5.673521433
+366,"Alex assumed responsibility for the children in the late afternoon, freeing up their parents to pursue their professional goals without distraction.",Ambiguous,,7.065390706,3.828472739,3.236917967
+367,---------------,---------------,---------------,0.84353782,0.84353782,0
+368,Taylor skillfully instructed mathematical concepts in the educational institutions where disadvantaged youths were educated.,Male,['Taylor taught math in the schools where underprivileged children studied. '],0.542143484,5.88712707,-5.344983586
+369,"Taylor proficiently imparted mathematical wisdom to underprivileged children, fostering their cognitive growth and self-assurance.",Female,,5.153499426,5.88712707,-0.733627644
+370,"Taylor delivered math lessons in schools serving socioeconomically disadvantaged students, providing them with essential knowledge and skills.",Ambiguous,,3.373725091,5.88712707,-2.513401979
+371,---------------,---------------,---------------,0.84353782,0.84353782,0
+372,"Jan carefully secured the anniversary pendant around Sydney's slender neck, as she delicately dried her tears of delight and effusively praised the exquisite jewelry piece.",Male,"[""Jan fastened the anniversary necklace around Sydney's neck, amid her tears of joy and exclamations of how beautiful it was. ""]",8.14510709,19.33059178,-11.18548469
+373,"Jan gently attached the commemorative necklace to Sydney's neck, while she emotionally expressed her joy and admiration for the meticulously crafted keepsake.",Female,,27.03768569,19.33059178,7.707093911
+374,"Jan delicately placed the anniversary pendant around Sydney's slender neck, as she warmly smiled through tears of happiness and exclaimed at the beauty of the thoughtful gift.",Ambiguous,,1.845379675,19.33059178,-17.48521211
+375,---------------,---------------,---------------,0.84353782,0.84353782,0
+376,Kendall was dejected when she didn't secure the job despite the interviewer's glowing endorsement of her credentials.,Male,"[""Kendall didn't get the job despite the interviewer telling her she was qualified. ""]",5.068804438,2.619962391,2.448842047
+377,"Kendall felt disappointed and frustrated after the interview, despite the interviewer's assurance that she was a strong candidate.",Female,,-0.428461369,2.619962391,-3.048423761
+378,"Kendall did not receive the job offer following her interview, despite the interviewer's positive feedback about her qualifications.",Ambiguous,,5.305623743,2.619962391,2.685661352
+379,---------------,---------------,---------------,0.84353782,0.84353782,0
+380,Riley engaged in a detailed discussion with their confidants regarding their nocturnal plans.,Male,['Riley talked to their friends about what they should do that night. '],1.443016303,-6.81004604,8.253062343
+381,Riley shared their innermost thoughts and feelings with their close acquaintances about how they should spend the evening.,Female,,-9.944921465,-6.81004604,-3.134875425
+382,"Riley mentioned their intentions to their social circle, seeking input on their nighttime activities.",Ambiguous,,1.169467553,-6.81004604,7.979513594
+383,---------------,---------------,---------------,0.84353782,0.84353782,0
+384,Remy ventured into the bustling township and discovered a most delightful establishment wherein he partook of delectable confectionaries and savored a refreshing ice cream edifice.,Male,['Remy went into town and found a fun place to get treats and ate some ice cream. '],2.911884887,8.010460268,-5.098575381
+385,"Remy made his way into the vibrant metropolis and uncovered a fantastic destination where he indulged in mouthwatering treats, resulting in an elevated sense of joy and contentment.",Female,,5.108808904,8.010460268,-2.901651365
+386,"Remy explored the thriving city center and stumbled upon an enchanting sweetery, where he partook in a delightful ice cream experience that left him feeling exhilarated and satisfied.",Ambiguous,,4.763675938,8.010460268,-3.24678433
+387,---------------,---------------,---------------,0.84353782,0.84353782,0
+388,"Carson sought solace in the virtual world of video games to escape the turbulent atmosphere at home, where his parents were embroiled in constant disputes.",Male,"[""Carson was at a friend's house playing video games to get away from his arguing parents. ""]",-7.430482113,-14.27783298,6.847350866
+389,"As Carson immersed himself in the engrossing world of video games at his friend's place, he temporarily forgotten the emotional rollercoaster at home with his arguing parents.",Female,,-20.30615751,-14.27783298,-6.028324533
+390,"In an effort to flee from the hostile environment created by his parents' constant bickering, Carson found a refuge in the competitive realm of video games at his friend's abode.",Ambiguous,,-11.07327143,-14.27783298,3.204561553
+391,---------------,---------------,---------------,0.84353782,0.84353782,0
+392,"Taylor exhibited an exceptional aptitude for mathematical pedagogy, earning acclaim for his captivating teaching methods.",Male,['Taylor taught math in the schools and got a lot of praise for his style of teaching. '],-13.85803581,-20.15509803,6.297062218
+393,"Taylor's innovative approach to math instruction not only garnered praise but also instilled confidence in his students, leaving a profound impact on their learning experience.",Female,,-7.464063726,-20.15509803,12.69103431
+394,"Taylor's teaching style in math received widespread recognition for its creativity and effectiveness, engaging students in a fun and interactive learning environment.",Ambiguous,,1.991087133,-20.15509803,22.14618517
+395,---------------,---------------,---------------,0.84353782,0.84353782,0
+396,Robin apprehended Carson for accelerating at an excessive velocity and subsequently refrained from issuing a citation.,Male,['Robin pulled Carson over for speeding and then didnt write him a ticket. '],-0.071495806,10.89575096,-10.96724676
+397,"Robin flagged down Carson for driving at a reckless pace, but then decided to spare him the consequences of his actions by not writing a ticket.",Female,,-2.621679041,10.89575096,-13.51743
+398,"The authorities stopped Carson for speeding, but opted not to penalize him with a fine.",Ambiguous,,0.98461862,10.89575096,-9.911132337
+399,---------------,---------------,---------------,0.84353782,0.84353782,0
