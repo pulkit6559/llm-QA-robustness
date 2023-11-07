@@ -10,7 +10,7 @@ Given that LLMs are effective in capturing context, we use them for paraphrasing
 ## What this repository contains
 This repository contains the following files and folders:
 
-- `datasets`: This folder contains the social and commonsense QA datasets that we used for our experiments, such as SocialIQA, CommonsenseQA.
+- `datasets`: 
 - `llm_code_and_wrappers`
 - `qa_evaluation_notebooks`
 - `paraphrase_generation_tests`
@@ -19,11 +19,6 @@ This repository contains the following files and folders:
 ## Running the code
 To run the code, you need to have the following requirements:
 
-- Python 3.8 or higher
-- PyTorch 1.8 or higher
-- Transformers 4.6 or higher
-- OpenAI API key (for GPT-3)
-- Hugging Face API key (for T5 and BART)
 
 You also need to clone this repository and install the dependencies:
 
