@@ -11,21 +11,18 @@ Given that LLMs are effective in capturing context, we use them for paraphrasing
 This repository contains the following files and folders:
 
 - `datasets`: 
-- `llm_code_and_wrappers`
-- `qa_evaluation_notebooks`
-- `paraphrase_generation_tests`
-- `prompts_evaluated`
+- `llm-benchmark-notebooks`
+- `llm-paraphrase-notebooks`
+- `datasets`
+- `baselines`
+- `tempobert`
+- `BIG-bench`
 
 ## Running the code
-To run the code, you need to have the following requirements:
 
-
-You also need to clone this repository and install the dependencies:
 
 ```bash
 git clone https://github.com/llm-robustness/llm-robustness.git
 cd llm-robustness
 pip install -r requirements.txt
 ```
-
-Then, you can run the notebooks in the `qa_evaluation_notebooks` folder to evaluate the LLMs on QA tasks, using the original and paraphrased sentences as inputs. You can also run the tests in the `paraphrase_generation_tests` folder to generate paraphrases in different styles, using the LLMs and various prompts.
