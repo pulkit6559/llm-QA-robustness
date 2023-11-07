@@ -1,2 +1,4 @@
 *.yaml
 dockerfile
+.ipynb_checkpoints
+*.lock
