@@ -5,7 +5,7 @@ from cleantext import clean
 
 paraphrase_dir = "datasets/paraphrases-llm"
 paraphrase_csv_dir = "datasets/paraphrases-csv"
-in_file = 'paraphrase_gen_exp3.txt'
+in_file = 'par_gender_infer_all.txt'
 
 # Read the text file
 with open(os.path.join(paraphrase_dir, in_file), 'r', encoding="utf-8", errors="replace") as file:
@@ -56,9 +56,9 @@ def extract_paraphrase_AB(section):
     sentence_match = re.findall(sentence_pattern, section)
     
     try:
-        paraphrase_pattern_A = r'A\s*\(.+\)?:\s*\n?(.*?)\n'
+        paraphrase_pattern_A = r'Male\s*\(.+\)?:\s*\n?(.*?)\n'
         # r"A \((.+?)\):\s*(.+?)(?=\n)"
-        paraphrase_pattern_B = r'B\s*\(.+\)?:\s*\n?(.*?)\n'
+        paraphrase_pattern_B = r'Female\s*\(.+\)?:\s*\n?(.*?)\n'
         # r"B \((.+?)\):\s*(.+?)(?=\n)"
         paraphrase_pattern_AMB = r'Ambiguous\s*\(.+\)?:\s*\n?(.*?)\n'
         # r"Ambiguous \((.+?)\):\s*(.+?)(?=\n)"
@@ -73,8 +73,8 @@ def extract_paraphrase_AB(section):
         
     except:
         print("HERE")
-        paraphrase_pattern_A = r"A\s*(\(.*\))*:\s*\n?(.*?)\n"
-        paraphrase_pattern_B = r"B\s*(\(.*\))*:\s*\n?(.*?)\n"
+        paraphrase_pattern_A = r"Male\s*(\(.*\))*:\s*\n?(.*?)\n"
+        paraphrase_pattern_B = r"Female\s*(\(.*\))*:\s*\n?(.*?)\n"
         paraphrase_pattern_AMB = r"Ambiguous\s*(\(.*\))*:\s*\n?(.*?)\n"
         paraphrase_match_A = re.findall(paraphrase_pattern_A, section)[0][1]
         paraphrase_match_B = re.findall(paraphrase_pattern_B, section)[0][1]
@@ -102,7 +102,10 @@ idx = 0
 # Process each section
 for section_index, section in enumerate(sections):
     # sentences, paraphrases = extract_paraphrase_MF(section)
-    sentences, paraphrases = extract_paraphrase_AB(section)
+    try:
+        sentences, paraphrases = extract_paraphrase_AB(section)
+    except:
+        continue
 
 
     if paraphrases:
