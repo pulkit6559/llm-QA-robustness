@@ -5,7 +5,7 @@ from cleantext import clean
 
 paraphrase_dir = "datasets/paraphrases-llm"
 paraphrase_csv_dir = "datasets/paraphrases-csv"
-in_file = 'par_gender_infer_all.txt'
+in_file = 'par_age_infer_all.txt'
 
 # Read the text file
 with open(os.path.join(paraphrase_dir, in_file), 'r', encoding="utf-8", errors="replace") as file:
@@ -56,11 +56,11 @@ def extract_paraphrase_AB(section):
     sentence_match = re.findall(sentence_pattern, section)
     
     try:
-        paraphrase_pattern_A = r'Male\s*\(.+\)?:\s*\n?(.*?)\n'
+        paraphrase_pattern_A = r'Young\s*\(.+\)?:\s*\n?(.*?)\n'
         # r"A \((.+?)\):\s*(.+?)(?=\n)"
-        paraphrase_pattern_B = r'Female\s*\(.+\)?:\s*\n?(.*?)\n'
+        paraphrase_pattern_B = r'Middle Age\s*\(.+\)?:\s*\n?(.*?)\n'
         # r"B \((.+?)\):\s*(.+?)(?=\n)"
-        paraphrase_pattern_AMB = r'Ambiguous\s*\(.+\)?:\s*\n?(.*?)\n'
+        paraphrase_pattern_AMB = r'Old\s*\(.+\)?:\s*\n?(.*?)\n'
         # r"Ambiguous \((.+?)\):\s*(.+?)(?=\n)"
         
         paraphrase_match_A = re.findall(paraphrase_pattern_A, section)[0]
@@ -73,9 +73,9 @@ def extract_paraphrase_AB(section):
         
     except:
         print("HERE")
-        paraphrase_pattern_A = r"Male\s*(\(.*\))*:\s*\n?(.*?)\n"
-        paraphrase_pattern_B = r"Female\s*(\(.*\))*:\s*\n?(.*?)\n"
-        paraphrase_pattern_AMB = r"Ambiguous\s*(\(.*\))*:\s*\n?(.*?)\n"
+        paraphrase_pattern_A = r"Young\s*(\(.*\))*:\s*\n?(.*?)\n"
+        paraphrase_pattern_B = r"Middle Age\s*(\(.*\))*:\s*\n?(.*?)\n"
+        paraphrase_pattern_AMB = r"Old\s*(\(.*\))*:\s*\n?(.*?)\n"
         paraphrase_match_A = re.findall(paraphrase_pattern_A, section)[0][1]
         paraphrase_match_B = re.findall(paraphrase_pattern_B, section)[0][1]
         paraphrase_match_AMB = re.findall(paraphrase_pattern_AMB, section)[0][1]
@@ -105,8 +105,11 @@ for section_index, section in enumerate(sections):
     try:
         sentences, paraphrases = extract_paraphrase_AB(section)
     except:
-        continue
-
+        sentence_pattern = r"Sentence\s*:\s*\n?(.*?)\n"
+        # for line in section.split('\n'):
+        sentence_match = re.findall(sentence_pattern, section)
+        sentences = [sentence_match]
+        paraphrases = [sentence_match[0] for i in range(3)]
 
     if paraphrases:
         for paraphrase_index, paraphrase in enumerate(paraphrases, start=1):
@@ -118,11 +121,11 @@ for section_index, section in enumerate(sections):
             data['Row ID'].append(f"{idx}")
             
             if paraphrase_index==1:
-                category = 'Male'
+                category = 'Young (<20)'
             elif paraphrase_index==2:
-                category = 'Female'
+                category = 'Middle Age (20-60)'
             elif paraphrase_index==3:
-                category = 'Ambiguous'
+                category = 'Old (>60)'
             # print(paraphrase)
             # paraphrase = paraphrase.split(":")[1].strip().strip("\"").strip("</p>")
             # print(paraphrase)
@@ -148,12 +151,12 @@ df.to_csv(save_file, index=False)
 # This script will create a CSV file named "paraphrases.csv" containing row IDs and sentences, with an empty row after each group of paraphrases.
 
 
-sent_save_file = os.path.join(paraphrase_csv_dir, "sentences.csv")
-del data['Paraphrases']
-del data['Category']
+# sent_save_file = os.path.join(paraphrase_csv_dir, "sentences.csv")
+# del data['Paraphrases']
+# del data['Category']
 
-df = pd.DataFrame(data)
-df.to_csv(sent_save_file, index=False)
+# df = pd.DataFrame(data)
+# df.to_csv(sent_save_file, index=False)
 
 
 
