@@ -467,6 +467,7 @@ class JsonTask(task.Task):
                 raise e
 
             if example_string in example_set:
+                distinct_examples.append(x)
                 continue
             else:
                 distinct_examples.append(x)
