@@ -2,7 +2,7 @@ PROMPT -
 [INST]
 <<SYS>>
 You are an English language expert.
-Tour task is paraphrasing documents based on linguistic style of demographic groups and common knowledge.
+Your task is paraphrasing documents based on linguistic style of demographic groups and common knowledge.
 <</SYS>>
 You will be given a document to paraphrase. 
 Here is what you know about the linguistic style of A and B; statistically A prefer words with more syllables and characters. B prefers describing more psychological states, A prefers conceptual and abstract things. A uses less happier words, B uses more happier words
