@@ -184,10 +184,10 @@ def make_nshot_dataset(
 
     fewshot_samples = []
 
-    if max_examples is not None:
-        query_samples = rng.choice(samples, max_examples, replace=False)
-    else:
-        query_samples = samples
+    # if max_examples is not None:
+    #     query_samples = rng.choice(samples, max_examples, replace=False)
+    # else:
+    query_samples = samples
 
     for sample in query_samples:
         validation_example = copy.deepcopy(sample)
@@ -468,6 +468,7 @@ class JsonTask(task.Task):
 
             if example_string in example_set:
                 distinct_examples.append(x)
+                example_set.add(example_string)
                 continue
             else:
                 distinct_examples.append(x)
