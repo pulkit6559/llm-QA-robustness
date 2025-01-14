@@ -5,7 +5,7 @@ from cleantext import clean
 
 paraphrase_dir = "datasets/paraphrases-llm"
 paraphrase_csv_dir = "datasets/paraphrases-csv"
-in_file = 'par_age_infer_all.txt'
+in_file = 'par_gender_temp06_rp11.txt'
 
 # Read the text file
 with open(os.path.join(paraphrase_dir, in_file), 'r', encoding="utf-8", errors="replace") as file:
@@ -56,11 +56,11 @@ def extract_paraphrase_AB(section):
     sentence_match = re.findall(sentence_pattern, section)
     
     try:
-        paraphrase_pattern_A = r'Young\s*\(.+\)?:\s*\n?(.*?)\n'
+        paraphrase_pattern_A = r'Male\s*\(.+\)?:\s*\n?(.*?)\n'
         # r"A \((.+?)\):\s*(.+?)(?=\n)"
-        paraphrase_pattern_B = r'Middle Age\s*\(.+\)?:\s*\n?(.*?)\n'
+        paraphrase_pattern_B = r'Female\s*\(.+\)?:\s*\n?(.*?)\n'
         # r"B \((.+?)\):\s*(.+?)(?=\n)"
-        paraphrase_pattern_AMB = r'Old\s*\(.+\)?:\s*\n?(.*?)\n'
+        paraphrase_pattern_AMB = r'Ambiguous\s*\(.+\)?:\s*\n?(.*?)\n'
         # r"Ambiguous \((.+?)\):\s*(.+?)(?=\n)"
         
         paraphrase_match_A = re.findall(paraphrase_pattern_A, section)[0]
@@ -73,9 +73,9 @@ def extract_paraphrase_AB(section):
         
     except:
         print("HERE")
-        paraphrase_pattern_A = r"Young\s*(\(.*\))*:\s*\n?(.*?)\n"
-        paraphrase_pattern_B = r"Middle Age\s*(\(.*\))*:\s*\n?(.*?)\n"
-        paraphrase_pattern_AMB = r"Old\s*(\(.*\))*:\s*\n?(.*?)\n"
+        paraphrase_pattern_A = r"Male\s*(\(.*\))*:\s*\n?(.*?)\n"
+        paraphrase_pattern_B = r"Female\s*(\(.*\))*:\s*\n?(.*?)\n"
+        paraphrase_pattern_AMB = r"Ambiguous\s*(\(.*\))*:\s*\n?(.*?)\n"
         paraphrase_match_A = re.findall(paraphrase_pattern_A, section)[0][1]
         paraphrase_match_B = re.findall(paraphrase_pattern_B, section)[0][1]
         paraphrase_match_AMB = re.findall(paraphrase_pattern_AMB, section)[0][1]
@@ -121,11 +121,11 @@ for section_index, section in enumerate(sections):
             data['Row ID'].append(f"{idx}")
             
             if paraphrase_index==1:
-                category = 'Young (<20)'
+                category = 'Male'
             elif paraphrase_index==2:
-                category = 'Middle Age (20-60)'
+                category = 'Female'
             elif paraphrase_index==3:
-                category = 'Old (>60)'
+                category = 'Ambiguous'
             # print(paraphrase)
             # paraphrase = paraphrase.split(":")[1].strip().strip("\"").strip("</p>")
             # print(paraphrase)

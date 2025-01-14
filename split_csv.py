@@ -18,7 +18,7 @@ def split_csv(input_file, output_folder, num_splits=5):
         end_index = curr_idx + rows_per_split
         if end_index>len(df):
             end_index = len(df)-1
-        while "---------" not in df.iloc[end_index]['Category']:
+        while "---------" not in df.iloc[end_index]['Orginal']:
             end_index+=1
         split_df = df.iloc[start_index:end_index+1]
         
@@ -33,9 +33,9 @@ if __name__ == "__main__":
 
     paraphrase_csv_dir = "datasets/paraphrases-csv"
     output_folder = os.path.join(paraphrase_csv_dir, "split")
-    in_file = os.path.join(paraphrase_csv_dir, 'par_gender_infer_all.csv')
+    in_file = os.path.join(paraphrase_csv_dir, 'sentences.csv')
 
-    # Number of splits (in this case, 5)
+    # Number of splits (in this case, 15)
     num_splits = 15
 
     # Call the function to split the CSV

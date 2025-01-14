@@ -84,7 +84,7 @@ if __name__ == '__main__':
     # time.sleep(10)
     get_lexhub_scores = False
     data_pth = r"datasets\paraphrases-csv"
-    par_csv = r"par_gender_infer_all.csv"
+    par_csv = r"sentences.csv"
     
     labeled_dir = r"datasets\paraphrases-csv\labeled"
     

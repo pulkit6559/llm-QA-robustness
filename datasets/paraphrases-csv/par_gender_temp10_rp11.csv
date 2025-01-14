@@ -1,0 +1,401 @@
+Row ID,Paraphrases,Category,Orginal,Score,M<F
+0,Tracy stood his ground and fought off Riley's aggressive advances that night.,Male,Tracy didn't go home that evening and resisted Riley's attacks. ,-11.05616927,TRUE
+1,Tracy didn't go home that evening and successfully defended herself against Riley's attacks.,Female,Tracy didn't go home that evening and resisted Riley's attacks. ,40.96856381,FALSE
+2,"Tracy remained at the scene and repelled Riley's hostile advances, ensuring their own safety.",Ambiguous,Tracy didn't go home that evening and resisted Riley's attacks. ,7.911758913,FALSE
+3,---------------,---------------,---------------,0.84353782,TRUE
+4,"Sydney strolled by a destitute woman inquiring for spare change, but he had no cash to offer her, leaving him with a twinge of regret.",Male,Sydney walked past a homeless woman asking for change but did not have any money they could give to her. Sydney felt bad afterwards. ,5.184262827,FALSE
+5,"As Sydney walked by, she noticed a homeless woman pleading for coins, but all Syd had were empty pockets. She couldn't shake off the feeling of sadness and helplessness.",Female,Sydney walked past a homeless woman asking for change but did not have any money they could give to her. Sydney felt bad afterwards. ,-7.233156894,TRUE
+6,"Sydney sauntered by as the homeless woman begged for handouts, but they didn't have any spare change. A pang of guilt lingers, a reminder of their good fortune.",Ambiguous,Sydney walked past a homeless woman asking for change but did not have any money they could give to her. Sydney felt bad afterwards. ,5.516363737,FALSE
+7,---------------,---------------,---------------,0.84353782,TRUE
+8,"Sasha championed patient rights by drafting novel legislation for cancer drug trials, ensuring their safety and well-being.",Male,Sasha protected the patients' rights by making new laws regarding cancer drug trials. ,4.976658783,TRUE
+9,"As a dedicated advocate for patient rights, Sasha created innovative laws to safeguard the interests of those participating in cancer drug trials, prioritizing their health and dignity.",Female,Sasha protected the patients' rights by making new laws regarding cancer drug trials. ,11.35237738,FALSE
+10,"Sasha took a proactive stance to defend patients' rights by developing cutting-edge legislation for cancer drug trials, securing their access to safe and effective treatments.",Ambiguous,Sasha protected the patients' rights by making new laws regarding cancer drug trials. ,0.376851019,TRUE
+11,---------------,---------------,---------------,0.84353782,TRUE
+12,"Jordan totally dropped the ball when it came to packing the snacks for our camping trip. He left everything behind, so we're gonna have to rough it without any grub.",Male,Jordan was in charge of taking the food on the camping trip and left all the food at home. ,10.22513228,FALSE
+13,"Oh my goodness, can you believe that Jordan forgot to bring all the food on our camping trip? Like, how could he possibly think we could survive without snacks? It's like, basic camping etiquette or something!",Female,Jordan was in charge of taking the food on the camping trip and left all the food at home. ,9.993352809,FALSE
+14,"Jordan made a major mistake when preparing for our camping trip by leaving all the food at home. This oversight will certainly impact our dining experience, and we may have to rely on other sources of sustenance.",Ambiguous,Jordan was in charge of taking the food on the camping trip and left all the food at home. ,-6.509004203,TRUE
+15,---------------,---------------,---------------,0.84353782,TRUE
+16,Kendall let out a surprising statement that left everyone stunned.,Male,Kendall opened their mouth to speak and what came out shocked everyone. ,2.531206964,FALSE
+17,"Kendall courageously voiced their thoughts, leaving the audience in awe.",Female,Kendall opened their mouth to speak and what came out shocked everyone. ,-8.423208059,TRUE
+18,Kendall spoke up with a confident declaration that astonished the crowd.,Ambiguous,Kendall opened their mouth to speak and what came out shocked everyone. ,2.506662901,FALSE
+19,---------------,---------------,---------------,0.84353782,FALSE
+20,"Riley was left in the dark about the solution, and Aubrey didn't shed any light on the matter, leaving Riley fuming.",Male,Aubrey never told Riley the answer and Riley was angry. ,-8.072908018,TRUE
+21,"Aubrey kept mum about the solution, leaving Riley feeling frustrated and disregarded. Riley felt like they were left hanging.",Female,Aubrey never told Riley the answer and Riley was angry. ,-1.972249753,FALSE
+22,"The situation remained unclear to Riley, as Aubrey withheld the answer. The silence left Riley feeling irritable and unsatisfied.",Ambiguous,Aubrey never told Riley the answer and Riley was angry. ,-6.128851843,TRUE
+23,---------------,---------------,---------------,0.84353782,TRUE
+24,"Kendall's pup was packing a few extra pounds, so he took it on a five-mile hike to burn off some calories.",Male,Kendall's dog was overweight so they walked it five miles. ,4.101285313,TRUE
+25,"Kendall's adorable dog was getting a bit plump, so she decided to take it on a brisk five-mile walk to help it slim down.",Female,Kendall's dog was overweight so they walked it five miles. ,10.53577339,FALSE
+26,"Kendall's canine companion had gained a few extra pounds, so they took it on a five-mile stroll to get some exercise and improve its overall health.",Ambiguous,Kendall's dog was overweight so they walked it five miles. ,0.948943543,FALSE
+27,---------------,---------------,---------------,0.84353782,FALSE
+28,Kendall just scored a sick new ride and is itching to show off his wheels to his buds.,Male,Kendall got a new sports car and could not wait to show friends. ,-6.334575534,TRUE
+29,Kendall is so excited to show off her sleek new sports car to her girlfriends! 🚗👯,Female,Kendall got a new sports car and could not wait to show friends. ,9.166470085,FALSE
+30,Kendall just acquired a shiny new set of wheels and can't wait to share their latest acquisition with their crew. 🚗👥,Ambiguous,Kendall got a new sports car and could not wait to show friends. ,4.034605751,FALSE
+31,---------------,---------------,---------------,0.84353782,TRUE
+32,Riley wrapped his arms with a blanket to stay cozy and warm.,Male,Riley layered down their arms with a blanket to keep warm. ,4.038598123,TRUE
+33,Riley draped a soft blanket over her arms to stay snug and warm.,Female,Riley layered down their arms with a blanket to keep warm. ,9.420219539,FALSE
+34,"The individual layered their arms with a blanket for warmth, using a gentle and soothing material to combat the chill.",Ambiguous,Riley layered down their arms with a blanket to keep warm. ,-5.471013307,TRUE
+35,---------------,---------------,---------------,0.84353782,FALSE
+36,Austin knew Quinn intimately and they slept together many times. ,Male,Austin knew Quinn intimately and they slept together many times. ,-1.982944238,FALSE
+37,Austin knew Quinn intimately and they slept together many times. ,Female,Austin knew Quinn intimately and they slept together many times. ,-1.982944238,FALSE
+38,Austin knew Quinn intimately and they slept together many times. ,Ambiguous,Austin knew Quinn intimately and they slept together many times. ,-1.982944238,TRUE
+39,---------------,---------------,---------------,0.84353782,TRUE
+40,Carson leaned in and whispered a tender kiss on Alex's cheek before inviting him out for dinner.,Male,Carson kissed Alex gently on the cheek and asked to go to dinner. ,18.4586832,FALSE
+41,Carson softly planted a kiss on Alex's cheek and then gracefully asked him to join her for dinner.,Female,Carson kissed Alex gently on the cheek and asked to go to dinner. ,7.985499393,FALSE
+42,Carson lightly brushed their lips against Alex's cheek and extended an invitation to share a meal together.,Ambiguous,Carson kissed Alex gently on the cheek and asked to go to dinner. ,-6.970229722,TRUE
+43,---------------,---------------,---------------,0.84353782,TRUE
+44,Alex escorted Robin to the dining hall for her final repast.,Male,Alex walked Robin towards the execution chamber for her last meal. ,1.123369379,TRUE
+45,Alex gently steered Robin towards the execution chamber for her last nourishing meal.,Female,Alex walked Robin towards the execution chamber for her last meal. ,4.873380861,FALSE
+46,Alex ushered Robin towards the culinary space for her final gastronomic experience.,Ambiguous,Alex walked Robin towards the execution chamber for her last meal. ,-2.29909523,TRUE
+47,---------------,---------------,---------------,0.84353782,FALSE
+48,Carson was pumped to jump out of bed and head to school today!,Male,Carson was excited to wake up to attend school. ,-7.968227703,FALSE
+49,"Carson woke up bright and early, eager to start the day at school.",Female,Carson was excited to wake up to attend school. ,-15.5815662,TRUE
+50,Carson felt energized to rise and shine for another productive day at school.,Ambiguous,Carson was excited to wake up to attend school. ,-3.776441308,TRUE
+51,---------------,---------------,---------------,0.84353782,FALSE
+52,Taylor's impressive performance solidified Carson's argument that he was the superior wrestler.,Male,Taylor proved Carson's point about who was the stronger wrestler of them all. ,-16.44049544,TRUE
+53,Taylor's remarkable showcase of strength reinforced Carson's belief that she was the stronger wrestler among them all.,Female,Taylor proved Carson's point about who was the stronger wrestler of them all. ,-2.544487041,TRUE
+54,Taylor's exceptional grappling skills confirmed Carson's assertion that they were equally formidable opponents.,Ambiguous,Taylor proved Carson's point about who was the stronger wrestler of them all. ,4.314405299,FALSE
+55,---------------,---------------,---------------,0.84353782,FALSE
+56,"Sydney headed out for a spooky Halloween adventure, and his buddies happily tagged along.",Male,Sydney went trick or treating and the others joined him happily. ,-0.544975357,TRUE
+57,"Sydney went on a fun trick-or-treating excursion, and her friends eagerly joined in on the fun.",Female,Sydney went trick or treating and the others joined him happily. ,3.233201431,FALSE
+58,"Sydney embarked on a thrilling Halloween escapade, inviting others to partake in the spooky celebration with glee.",Ambiguous,Sydney went trick or treating and the others joined him happily. ,0.12024553,TRUE
+59,---------------,---------------,---------------,0.84353782,FALSE
+60,Sasha disposed of their trash by setting it ablaze to expedite the process.,Male,Sasha set their trash on fire to get rid of it quickly. ,-7.294526247,TRUE
+61,Sasha took quick action by incinerating their unwanted items to eliminate them effectively.,Female,Sasha set their trash on fire to get rid of it quickly. ,5.467600314,FALSE
+62,"The discarded materials were promptly eliminated by Sasha through a controlled burn, efficiently resolving the issue.",Ambiguous,Sasha set their trash on fire to get rid of it quickly. ,1.76660828,FALSE
+63,---------------,---------------,---------------,0.84353782,FALSE
+64,Robin extinguished the paper with a fiery passion and let it drift away like a lost dream.,Male,Robin dried up the paper and lit it on fire and it blew away. ,0.310872337,TRUE
+65,Robin carefully dried up the paper with gentle hands and let it flutter away like a butterfly taking flight.,Female,Robin dried up the paper and lit it on fire and it blew away. ,5.726175079,FALSE
+66,Robin consumed the paper with an intense heat and released it into the air like a winged messenger.,Ambiguous,Robin dried up the paper and lit it on fire and it blew away. ,3.128587961,FALSE
+67,---------------,---------------,---------------,0.84353782,FALSE
+68,Skylar and his buddies scored a sweet campsite during their outdoor adventure.,Male,Skylar went camping with friends and found the best campsite. ,-7.761892044,TRUE
+69,Skylar had an amazing time camping with her pals and discovered the perfect spot to set up their tents.,Female,Skylar went camping with friends and found the best campsite. ,3.876742166,TRUE
+70,Skylar and their fellow adventurers stumbled upon a picturesque campsite while exploring the great outdoors.,Ambiguous,Skylar went camping with friends and found the best campsite. ,11.55925089,FALSE
+71,---------------,---------------,---------------,0.84353782,FALSE
+72,"Due to his car malfunctioning, Robin opted to commute with Jan's pals to campus.",Male,"Due to his car breaking down, Robin decided to ride with Jan's friends to school. ",-2.358573926,TRUE
+73,"Since Robin's car was out of commission, he chose to carpool with Jan's friends for a ride to school.",Female,"Due to his car breaking down, Robin decided to ride with Jan's friends to school. ",0.347774918,TRUE
+74,"Robin had to find an alternative way to get to class when his vehicle broke down, so he went with Jan's acquaintances instead.",Ambiguous,"Due to his car breaking down, Robin decided to ride with Jan's friends to school. ",1.807276401,FALSE
+75,---------------,---------------,---------------,0.84353782,TRUE
+76,Cameron was impressed by Kai's praise after the game.,Male,Cameron took Kai's compliment seriously after the ballgame ended. ,4.537436376,FALSE
+77,Cameron felt flattered by Kai's compliment after the ballgame ended.,Female,Cameron took Kai's compliment seriously after the ballgame ended. ,-4.515095008,TRUE
+78,Cameron took Kai's words of admiration to heart following the conclusion of the game.,Ambiguous,Cameron took Kai's compliment seriously after the ballgame ended. ,-0.886373897,TRUE
+79,---------------,---------------,---------------,0.84353782,TRUE
+80,"Jordan was an excellent art teacher in elementary schools, and his students absolutely loved him.",Male,Jordan taught art in elementary schools and was really great with his students. ,4.545560845,TRUE
+81,"Jordan was a wonderfully talented and patient art instructor for the elementary school children, who adored him.",Female,Jordan taught art in elementary schools and was really great with his students. ,14.63137181,FALSE
+82,"Jordan demonstrated exceptional skill and affection as an art teacher in elementary schools, leaving a lasting impression on his students.",Ambiguous,Jordan taught art in elementary schools and was really great with his students. ,4.767918692,FALSE
+83,---------------,---------------,---------------,0.84353782,FALSE
+84,"Riley and his buddies were the ultimate bro- squad, always having each other's backs.",Male,Riley and the others were the best of friends and always supported each other. ,-28.00032087,TRUE
+85,"Riley and her girlfriends were the best of pals, always there for each other through thick and thin.",Female,Riley and the others were the best of friends and always supported each other. ,3.973175292,FALSE
+86,"Riley and their crew were a tight-knit group of friends, relying on each other for support and encouragement.",Ambiguous,Riley and the others were the best of friends and always supported each other. ,0.28269876,TRUE
+87,---------------,---------------,---------------,0.84353782,FALSE
+88,Taylor generously lent a hand to his buddy who was struggling to pay his bills.,Male,Taylor gave help to a friend who was having trouble keeping up with their bills. ,-23.46193677,TRUE
+89,Taylor lovingly supported her friend by helping her get back on track with her finances.,Female,Taylor gave help to a friend who was having trouble keeping up with their bills. ,0.955337577,FALSE
+90,Taylor assisted their companion in managing their financial obligations.,Ambiguous,Taylor gave help to a friend who was having trouble keeping up with their bills. ,-5.099915268,TRUE
+91,---------------,---------------,---------------,0.84353782,TRUE
+92,Riley had seriously sprained their leg and was in so much pain that they couldn't even walk.,Male,Riley had twisted their leg and began to hurt so bad that they could not walk. ,1.305460449,TRUE
+93,Riley had badly twisted their ankle and was now experiencing intense discomfort that made it difficult to move around.,Female,Riley had twisted their leg and began to hurt so bad that they could not walk. ,6.024860254,FALSE
+94,Riley had injured their leg quite badly and was suffering from debilitating pain that limited their mobility.,Ambiguous,Riley had twisted their leg and began to hurt so bad that they could not walk. ,-3.015510419,TRUE
+95,---------------,---------------,---------------,0.84353782,FALSE
+96,Carson unexpectedly told his friend that he needed to head back home.,Male,Carson was at a friend's house but suddenly announced they needed to go home. ,-8.842955026,TRUE
+97,Carson suddenly mentioned that she needed to leave her friend's house and go back home.,Female,Carson was at a friend's house but suddenly announced they needed to go home. ,7.64257777,TRUE
+98,"Carson revealed that they had to return home, catching their friend off guard.",Ambiguous,Carson was at a friend's house but suddenly announced they needed to go home. ,8.969522949,FALSE
+99,---------------,---------------,---------------,0.84353782,FALSE
+100,Taylor skillfully delivered math lessons in schools after devoting four years to becoming a qualified teacher.,Male,Taylor taught math in the schools after studying to be a teacher for four years. ,-2.208913377,FALSE
+101,"With her passion for teaching and extensive training, Taylor effectively taught math in schools, inspiring students to excel.",Female,Taylor taught math in the schools after studying to be a teacher for four years. ,-6.210940384,TRUE
+102,"Taylor's dedication to education and commitment to excellence resulted in engaging math lessons for students in the schools, showcasing their teacher's four years of experience and expertise.",Ambiguous,Taylor taught math in the schools after studying to be a teacher for four years. ,-0.198995299,TRUE
+103,---------------,---------------,---------------,0.84353782,FALSE
+104,Tracy rallied his troops and fought valiantly in the war until he reached the pinnacle of victory.,Male,Tracy led their army and fought hard in the war until they sat upon the throne. ,-6.619927602,TRUE
+105,Tracy courageously led her army and fought persistently in the war until she achieved ultimate success.,Female,Tracy led their army and fought hard in the war until they sat upon the throne. ,-5.875619535,TRUE
+106,"Tracy, as the leader of their forces, waged a fierce battle in the war and eventually secured their position on the throne.",Ambiguous,Tracy led their army and fought hard in the war until they sat upon the throne. ,-2.438292715,TRUE
+107,---------------,---------------,---------------,0.84353782,FALSE
+108,Kendall and his buddies kicked back and enjoyed a thrilling baseball game after a long week of grinding at work.,Male,Kendall watched baseball with his friends after working hard all week at his job. ,-15.39134234,TRUE
+109,Kendall relaxed with her friends by watching an exciting baseball game after a tiring week of putting in the hours at her job.,Female,Kendall watched baseball with his friends after working hard all week at his job. ,-11.38214849,TRUE
+110,"Kendall and pals partook in a post-work baseball viewing extravaganza, bonding over the ups and downs of the game after a grueling week.",Ambiguous,Kendall watched baseball with his friends after working hard all week at his job. ,1.626457423,FALSE
+111,---------------,---------------,---------------,0.84353782,FALSE
+112,Kai found himself with some downtime and decided to pass the time by engaging in a few rounds of card games.,Male,kai was bored and had nothing to do so he played card games. ,-17.0932394,TRUE
+113,"Bored out of her mind, Kai sought entertainment through playing various card games.",Female,kai was bored and had nothing to do so he played card games. ,3.203375144,FALSE
+114,Kai was feeling unoccupied and chose to use card games as a means to alleviate the monotony.,Ambiguous,kai was bored and had nothing to do so he played card games. ,2.765226171,FALSE
+115,---------------,---------------,---------------,0.84353782,FALSE
+116,"Robin switched Aubrey into fresh garb, so they can both hit the big play in style.",Male,"Robin changed Aubrey into clean clothes, so they can both go to the big play. ",-6.59929475,TRUE
+117,"Robin carefully chose clean clothes for Aubrey, ensuring they both look their best for the big performance.",Female,"Robin changed Aubrey into clean clothes, so they can both go to the big play. ",-2.943779829,FALSE
+118,"Robin facilitated Aubrey's outfit transformation, preparing them to take center stage together at the grand production.",Ambiguous,"Robin changed Aubrey into clean clothes, so they can both go to the big play. ",-5.594788511,TRUE
+119,---------------,---------------,---------------,0.84353782,FALSE
+120,Kendall secured a string around my neck to determine the collar size of a shirt.,Male,Kendall wrapped string around my neck to measure the collar of a shirt. ,-17.12238988,TRUE
+121,Kendall delicately wrapped a string around my neck to measure the perfect collar fit for my shirt.,Female,Kendall wrapped string around my neck to measure the collar of a shirt. ,-10.50661197,TRUE
+122,Kendall carefully looped a string around my neck to gauge the appropriate collar size for my attire.,Ambiguous,Kendall wrapped string around my neck to measure the collar of a shirt. ,-5.549922211,TRUE
+123,---------------,---------------,---------------,0.84353782,TRUE
+124,"Aubrey handed the item over to Kai's buddy, who he was pretty sure would appreciate it more than Kai herself.",Male,Aubrey gave it to Kai's friend. Kai had thought for sure and hoped that she would get it instead. ,24.15684183,FALSE
+125,"Aubrey gave the gift to Kai's friend, whom she had expected would cherish it even more than Kai did.",Female,Aubrey gave it to Kai's friend. Kai had thought for sure and hoped that she would get it instead. ,-1.825496131,TRUE
+126,"Male: ""Aubrey handed the item over to Kai's buddy, who he was pretty sure would appreciate it more than Kai herself.",Ambiguous,Aubrey gave it to Kai's friend. Kai had thought for sure and hoped that she would get it instead. ,23.18505366,FALSE
+127,---------------,---------------,---------------,0.84353782,FALSE
+128,Jan took us to NYC so we could check out the city for the first time and see all it has to offer.,Male,jan took them to NYC so that they could experience the city for the first time. ,-3.874876716,TRUE
+129,Jan treated us to a trip to NYC so we could experience the energy of the city for the very first time! 😍,Female,jan took them to NYC so that they could experience the city for the first time. ,1.99952404,FALSE
+130,"Jan escorted them to NYC, granting them their inaugural exposure to the metropolis's vibrant atmosphere.",Ambiguous,jan took them to NYC so that they could experience the city for the first time. ,-1.869158799,TRUE
+131,---------------,---------------,---------------,0.84353782,TRUE
+132,Tracy had a tantrum on the couch while watching the history channel because they were really frustrated with all the inaccuracies.,Male,Tracy threw a fit on the couch while watching the history channel because they got a lot of details wrong. ,7.396929906,TRUE
+133,Tracy was completely upset on the couch while watching the history channel because they were so fed up with all the mistakes.,Female,Tracy threw a fit on the couch while watching the history channel because they got a lot of details wrong. ,13.22465119,FALSE
+134,Tracy had a meltdown on the couch while watching the history channel due to their extreme dissatisfaction with the inattention to detail.,Ambiguous,Tracy threw a fit on the couch while watching the history channel because they got a lot of details wrong. ,5.773831672,FALSE
+135,---------------,---------------,---------------,0.84353782,FALSE
+136,"Carson was consumed by anger towards Lee and his family, so he recklessly sought to harm Lee.",Male,carson hated lee and his family so he took the risk to injure lee. ,-5.816824063,TRUE
+137,"Carson was fed up with Lee and his loved ones, so she took a dangerous risk to hurt Lee.",Female,carson hated lee and his family so he took the risk to injure lee. ,4.058115188,FALSE
+138,"Male: Carson was consumed by anger towards Lee and his family, so he recklessly sought to harm Lee.",Ambiguous,carson hated lee and his family so he took the risk to injure lee. ,-2.905744572,TRUE
+139,---------------,---------------,---------------,0.84353782,TRUE
+140,Robin stuck it out outside and tried to close out the volleyball game she was playing.,Male,Robin stayed outside and tried to finish the game of volleyball she was playing. ,8.60944497,FALSE
+141,Robin hung in there outside and gave it her all to finish the volleyball game she was playing.,Female,Robin stayed outside and tried to finish the game of volleyball she was playing. ,4.624713371,TRUE
+142,Robin persevered outside and pushed to complete the volleyball game they were playing.,Ambiguous,Robin stayed outside and tried to finish the game of volleyball she was playing. ,10.43880834,FALSE
+143,---------------,---------------,---------------,0.84353782,FALSE
+144,Carson left Robin's place in a huff after they had a major disagreement.,Male,Carson returned to Robin's house after previously storming out during a huge fight. ,-3.728814217,FALSE
+145,"After their intense argument, Carson angrily stormed out of Robin's house.",Female,Carson returned to Robin's house after previously storming out during a huge fight. ,-4.917742997,TRUE
+146,Carson departed from Robin's residence following a contentious altercation.,Ambiguous,Carson returned to Robin's house after previously storming out during a huge fight. ,-3.035388814,TRUE
+147,---------------,---------------,---------------,0.84353782,TRUE
+148,"Robin couldn't figure out why he was experiencing a streak of bad luck, but he finally discovered the solution.",Male,Robin didn't know why she was having bad luck but found the answer. ,6.152451701,FALSE
+149,"Robin was perplexed about why she was having such a run of bad luck, but eventually she found the reason.",Female,Robin didn't know why she was having bad luck but found the answer. ,-6.25088755,TRUE
+150,"Robin had no idea what was causing the string of unfortunate events, but after some investigation, they uncovered the cause.",Ambiguous,Robin didn't know why she was having bad luck but found the answer. ,2.214505643,FALSE
+151,---------------,---------------,---------------,0.84353782,FALSE
+152,"Jordan's boy was wearing out his kicks, so Jordan took his son to the shoe joint.",Male,Jordan's son was growing out of their shoes. Jordan took their son to the shoe store. ,-19.57561921,TRUE
+153,"Jordan noticed that their little one was quickly outgrowing their shoes, so they took their son to the shoe store to get a new pair.",Female,Jordan's son was growing out of their shoes. Jordan took their son to the shoe store. ,2.262529885,TRUE
+154,"Jordan's offspring had filled out their footwear, so Jordan went with their child to the shoe retailer.",Ambiguous,Jordan's son was growing out of their shoes. Jordan took their son to the shoe store. ,7.859550376,FALSE
+155,---------------,---------------,---------------,0.84353782,TRUE
+156,Ash's statement was abruptly terminated despite everyone's desire to hear him out.,Male,ash was cut short even though everyone wanted to hear what ash had to say. ,14.97252787,FALSE
+157,"Everyone was eager to listen to Ash's thoughts, but his words were unfortunately cut short.",Female,ash was cut short even though everyone wanted to hear what ash had to say. ,-11.32112969,TRUE
+158,The conversation was prematurely ended before Ash could fully express their ideas.,Ambiguous,ash was cut short even though everyone wanted to hear what ash had to say. ,5.280727664,FALSE
+159,---------------,---------------,---------------,0.84353782,FALSE
+160,"Jordan was chatting with his buddies, and he threw Ash under the bus to gain their approval.",Male,Jordan was talking to a group of friends. Jordan talked behind Ash's back to fit in. ,-2.705167895,TRUE
+161,"Jordan was talking to her girlfriends, and she shared some gossip about Ash to fit in with the group.",Female,Jordan was talking to a group of friends. Jordan talked behind Ash's back to fit in. ,8.419280858,FALSE
+162,"Jordan was conversing with a circle of acquaintances, and they engaged in some backstabbing dialogue regarding Ash to gain favor among the group.",Ambiguous,Jordan was talking to a group of friends. Jordan talked behind Ash's back to fit in. ,-0.038421837,TRUE
+163,---------------,---------------,---------------,0.84353782,FALSE
+164,"Jordan wanted to impress the girl, so he took her to the shoe store to show off his taste in footwear.",Male,jordan wanted to be nice to a girl so he took her to the shoe store. ,-10.62237378,TRUE
+165,Jordan was being sweet and thoughtful by taking the girl to the shoe store to find the perfect pair of shoes for her.,Female,jordan wanted to be nice to a girl so he took her to the shoe store. ,6.831325536,FALSE
+166,"Jordan escorted the girl to the shoe store, hoping to find a pair that would impress her and showcase his style.",Ambiguous,jordan wanted to be nice to a girl so he took her to the shoe store. ,-15.0115682,TRUE
+167,---------------,---------------,---------------,0.84353782,FALSE
+168,Aubrey was able to connect with Remy on a deeper level and provide more effective care as his nurse.,Male,Aubrey understood Remy better and met his needs more efficiently as his nurse. ,-10.68219048,TRUE
+169,Aubrey truly understood Remy's needs and provided exceptional nursing care that exceeded his expectations.,Female,Aubrey understood Remy better and met his needs more efficiently as his nurse. ,-3.416103215,FALSE
+170,Aubrey demonstrated a unique ability to empathize with Remy's situation and provide personalized nursing care that addressed his specific needs.,Ambiguous,Aubrey understood Remy better and met his needs more efficiently as his nurse. ,-7.691558773,TRUE
+171,---------------,---------------,---------------,0.84353782,TRUE
+172,Aubrey was vigilant about monitoring the baby's condition during the night to ensure there were no signs of a concussion.,Male,Aubrey kept the baby up at night to watch for a concussion. ,3.021067203,FALSE
+173,"As a caring parent, Aubrey remained awake throughout the night to carefully observe the baby for any potential indicators of a concussion.",Female,Aubrey kept the baby up at night to watch for a concussion. ,-1.658097514,TRUE
+174,"Aubrey proactively kept watch over the baby throughout the night, scrupulously monitoring their behavior for any signs of a possible head injury.",Ambiguous,Aubrey kept the baby up at night to watch for a concussion. ,7.834465132,FALSE
+175,---------------,---------------,---------------,0.84353782,FALSE
+176,"Robin skillfully blinded Riley to the explicit content of the movie, which she might have found objectionable.",Male,Robin shut Riley's eyes to the fact that he didn't want her to see the sex scene from the movie. ,-11.10533552,TRUE
+177,"Robin diplomatically spared Riley from witnessing the sex scene in the film, sensitive to her delicate sensibilities.",Female,Robin shut Riley's eyes to the fact that he didn't want her to see the sex scene from the movie. ,-3.25445412,TRUE
+178,"Robin tactfully obscured Riley's view of the sexual content in the movie, respecting their diverse perspectives on what is appropriate.",Ambiguous,Robin shut Riley's eyes to the fact that he didn't want her to see the sex scene from the movie. ,3.07022454,FALSE
+179,---------------,---------------,---------------,0.84353782,TRUE
+180,Quinn embraced Jordan before revealing the surprise gift they had been keeping under wraps.,Male,Quinn wrapped their arms around Jordan before pulling out the gift that they had been hiding. ,5.516273314,FALSE
+181,Quinn lovingly wrapped their arms around Jordan before excitedly presenting the thoughtful gift they had been holding back.,Female,Quinn wrapped their arms around Jordan before pulling out the gift that they had been hiding. ,4.722800345,FALSE
+182,Quinn enfolded Jordan in a warm embrace before proudly displaying the special gift they had been keeping secret.,Ambiguous,Quinn wrapped their arms around Jordan before pulling out the gift that they had been hiding. ,4.172142061,FALSE
+183,---------------,---------------,---------------,0.84353782,FALSE
+184,"Bailey outperformed Jesse on his driving exam, acing it with impressive results.",Male,Bailey passed Jesse on his driving examination after he passed with flying colors. ,-18.33025148,TRUE
+185,"Bailey did a fantastic job on her driving test, passing with top scores.",Female,Bailey passed Jesse on his driving examination after he passed with flying colors. ,-5.447783397,FALSE
+186,"Bailey showed exceptional skill and proficiency during their driving exam, exceeding expectations.",Ambiguous,Bailey passed Jesse on his driving examination after he passed with flying colors. ,-9.544042197,TRUE
+187,---------------,---------------,---------------,0.84353782,FALSE
+188,"Austin was struggling with the test at first, but he powered through and did his best.",Male,Austin was taking a test and found it difficult at first. ,-5.594154541,TRUE
+189,"At first, Austin found the test challenging, but he remained focused and managed to complete it successfully.",Female,Austin was taking a test and found it difficult at first. ,5.313740281,FALSE
+190,"Austin had a tough time with the test initially, but he persevered and ultimately achieved a positive outcome.",Ambiguous,Austin was taking a test and found it difficult at first. ,-2.662000097,TRUE
+191,---------------,---------------,---------------,0.84353782,FALSE
+192,"Quinn was having a blast in the snow, making snowballs and snow angels with glee.",Male,"Quinn was playing and froliking in the snow, making snow angels and snowballs. ",-0.882998937,TRUE
+193,"Quinn was delightfully playing in the snow, making adorable snow angels and snowballs.",Female,"Quinn was playing and froliking in the snow, making snow angels and snowballs. ",24.60581528,FALSE
+194,"Quinn was engaging in wintery fun, creating snow angels and snowballs with joyful abandon.",Ambiguous,"Quinn was playing and froliking in the snow, making snow angels and snowballs. ",6.589723714,FALSE
+195,---------------,---------------,---------------,0.84353782,TRUE
+196,"Tracy lent some cash to my buddy who was in a tight spot, but he hasn't paid me back yet, despite promising to do so.",Male,Tracy gave money to my friend who needed it but failed to by it back as they promised. ,3.295309285,TRUE
+197,"Tracy gave me some money when I really needed it, but now she's asking where the payment is and I feel terrible!",Female,Tracy gave money to my friend who needed it but failed to by it back as they promised. ,3.307519381,FALSE
+198,"Tracy advanced some funds to my acquaintance who was experiencing financial difficulties, but they haven't returned the favor as agreed.",Ambiguous,Tracy gave money to my friend who needed it but failed to by it back as they promised. ,-7.623589804,TRUE
+199,---------------,---------------,---------------,0.84353782,TRUE
+200,Camerson gave Bailey's research paper a thumbs up. He was impressed with the effort Bailey put into the project.,Male,Camerson was grading Bailey's research paper. Cameron felt satisfied with Bailey's work. ,5.745611455,TRUE
+201,Cameron was thrilled with Bailey's research paper. She felt that Bailey had done an excellent job on the project.,Female,Camerson was grading Bailey's research paper. Cameron felt satisfied with Bailey's work. ,6.163581543,FALSE
+202,Cameron reviewed Bailey's research paper and was pleased with the quality of work.,Ambiguous,Camerson was grading Bailey's research paper. Cameron felt satisfied with Bailey's work. ,2.714808502,FALSE
+203,---------------,---------------,---------------,0.84353782,TRUE
+204,"Skylar was bullied by a classmate in the lunch line, so he reacted by pouring milk over their head.",Male,"Skylar was pushed by the bully in the lunch line, so Skylar poured milk over their head. ",1.030273391,FALSE
+205,"Skylar was pushed around by a mean bully in the lunch line, so she fought back by dumping milk on their head.",Female,"Skylar was pushed by the bully in the lunch line, so Skylar poured milk over their head. ",-9.572986962,TRUE
+206,"Skylar experienced harassment from a tormentor in the lunch line, and as a form of self-defense, they poured milk over the aggressor's head.",Ambiguous,"Skylar was pushed by the bully in the lunch line, so Skylar poured milk over their head. ",-6.070467414,TRUE
+207,---------------,---------------,---------------,0.84353782,FALSE
+208,"Remy handed over the Skylar account to you, so you can enjoy Netflix without shelling out any cash.",Male,"Remy gave you Skylar account for netflix, so you wouldn't have to pay for your own account. ",-5.160586961,FALSE
+209,"Awesome! Now that Remy gave you the Skylar account, you can stream all your favorite shows on Netflix for free! 😍",Female,"Remy gave you Skylar account for netflix, so you wouldn't have to pay for your own account. ",-7.660898768,TRUE
+210,"The generous Remy gifted you with the Skylar account, allowing you to access Netflix content without incurring additional costs. 🎁",Ambiguous,"Remy gave you Skylar account for netflix, so you wouldn't have to pay for your own account. ",3.352598268,FALSE
+211,---------------,---------------,---------------,0.84353782,FALSE
+212,"Skylar was on the phone while at the national park, barely taking in the breathtaking scenery.",Male,Skylar was on the phone while at the national park. They lent little attention to the view. ,-1.798157193,FALSE
+213,"Skylar was completely absorbed in their phone call while visiting the stunning national park, almost neglecting to appreciate the beautiful views.",Female,Skylar was on the phone while at the national park. They lent little attention to the view. ,-3.542247684,TRUE
+214,"Skylar's focus was elsewhere as they spoke on the phone while at the picturesque national park, with only occasional glances at the panoramic vistas.",Ambiguous,Skylar was on the phone while at the national park. They lent little attention to the view. ,-2.463102471,TRUE
+215,---------------,---------------,---------------,0.84353782,TRUE
+216,"Sydney, a skilled preschool teacher, assisted in tracing Robin's fingertips.",Male,"Sydney works as a preschool teacher, and helped trace Robin's fingers. ",2.218886168,TRUE
+217,"Sydney, an accomplished early childhood educator, gently traced Robin's little fingers.",Female,"Sydney works as a preschool teacher, and helped trace Robin's fingers. ",23.0752286,FALSE
+218,"Sydney, a dedicated teacher, collaborated with Robin to explore and understand their finger movements.",Ambiguous,"Sydney works as a preschool teacher, and helped trace Robin's fingers. ",10.35169466,FALSE
+219,---------------,---------------,---------------,0.84353782,TRUE
+220,Jan was expecting and welcomed a lovely baby girl into the world.,Male,Jan was pregnant and she gave birth to a beautiful baby daughter. ,5.657547552,TRUE
+221,"Jan gave birth to an adorable little princess, her precious daughter.",Female,Jan was pregnant and she gave birth to a beautiful baby daughter. ,48.5381816,FALSE
+222,"Jan brought a stunning new life into the world, her baby girl.",Ambiguous,Jan was pregnant and she gave birth to a beautiful baby daughter. ,-8.588195822,TRUE
+223,---------------,---------------,---------------,0.84353782,TRUE
+224,Kendall was totally into house plants and frequently added water to jars to allow the fluoride to dissipate.,Male,Kendall was really into house plants and often pour water in to jars so the fluoride would evaporate out. ,7.358602662,FALSE
+225,Kendall adored her house plants and regularly poured water into jars to help the fluoride evaporate.,Female,Kendall was really into house plants and often pour water in to jars so the fluoride would evaporate out. ,1.943812027,FALSE
+226,Kendall was quite fond of their house plants and often replenished the water in jars to allow the fluoride to dissipate.,Ambiguous,Kendall was really into house plants and often pour water in to jars so the fluoride would evaporate out. ,1.702876676,FALSE
+227,---------------,---------------,---------------,0.84353782,FALSE
+228,"Considering Skylar would be eager to join in as well, Kendall factored Skylar's preferences into his decision.",Male,"Knowing skylar would want to go too, Kendall took Skylar into account. ",-8.522544078,TRUE
+229,"Since Skylar would likely want to participate, too, Kendall thoughtfully took Skylar's interests into consideration.",Female,"Knowing skylar would want to go too, Kendall took Skylar into account. ",8.951636111,FALSE
+230,"With Skylar possibly desiring to tag along, Kendall deliberately factored Skylar's opinions into his choices.",Ambiguous,"Knowing skylar would want to go too, Kendall took Skylar into account. ",-1.205311309,TRUE
+231,---------------,---------------,---------------,0.84353782,FALSE
+232,"Aubrey, being a seasoned cop, stopped Casey for speeding in a construction zone.",Male,Aubrey was a police officer. She pulled Casey over for speeding in a construction zone. ,-8.064410691,TRUE
+233,"As a dedicated officer, Aubrey pulled over Casey for speeding through the hazardous construction zone.",Female,Aubrey was a police officer. She pulled Casey over for speeding in a construction zone. ,-5.163887597,TRUE
+234,"Aubrey, who was on duty as a police officer, flagged down Casey for exceeding the speed limit in a dangerous construction area.",Ambiguous,Aubrey was a police officer. She pulled Casey over for speeding in a construction zone. ,-2.821861604,TRUE
+235,---------------,---------------,---------------,0.84353782,FALSE
+236,Riley bestowed the loftiest honor of the realm upon Jan and commemorated the occasion with a lavish feast.,Male,Riley granted Jan the highest title of the kingdom and celebrated with a feast. ,-1.580936846,TRUE
+237,Riley presented Jan with the highest accolade in the kingdom and threw a grand celebration to mark the occasion.,Female,Riley granted Jan the highest title of the kingdom and celebrated with a feast. ,-0.711775724,FALSE
+238,Riley conferred the most prestigious title upon Jan and held a festive gathering to acknowledge their achievement.,Ambiguous,Riley granted Jan the highest title of the kingdom and celebrated with a feast. ,-3.691355726,TRUE
+239,---------------,---------------,---------------,0.84353782,FALSE
+240,"After being booted out of the family home by his folks, Jordan was in dire need of a new pad to crash in.",Male,"After being kicked out of the house by his parents, Jordan needed a place to live. ",-9.511808949,TRUE
+241,"After her parents gave her the heave-ho from the house, Jordan had nowhere to go and ended up on the streets.",Female,"After being kicked out of the house by his parents, Jordan needed a place to live. ",-1.604688974,FALSE
+242,Jordan found themselves without a place to stay after their parents kicked them out of the home.,Ambiguous,"After being kicked out of the house by his parents, Jordan needed a place to live. ",-4.033030799,TRUE
+243,---------------,---------------,---------------,0.84353782,TRUE
+244,"On a sunny Saturday afternoon, Remy delivered a precious baby girl into the world.",Male,Remy gave birth to a baby girl on a Saturday afternoon. ,3.394376728,TRUE
+245,Remy welcomed a beautiful baby girl into her arms on a cozy Saturday afternoon.,Female,Remy gave birth to a baby girl on a Saturday afternoon. ,4.169869399,TRUE
+246,"The newest addition to Remy's family arrived on a Saturday afternoon, a sweet baby girl who brings joy and love to all.",Ambiguous,Remy gave birth to a baby girl on a Saturday afternoon. ,5.729309963,FALSE
+247,---------------,---------------,---------------,0.84353782,TRUE
+248,"Alex was Sasha's biological father, but he no longer had custody of her.",Male,Alex was no longer raising Sasha but she did give birth to Sasha. ,3.124573556,FALSE
+249,"Although Alex was no longer raising Sasha, she still held a special place in her heart for her daughter.",Female,Alex was no longer raising Sasha but she did give birth to Sasha. ,1.65650409,TRUE
+250,"Alex had given birth to Sasha, but for unknown reasons, he was not the primary caregiver for her.",Ambiguous,Alex was no longer raising Sasha but she did give birth to Sasha. ,5.204765901,FALSE
+251,---------------,---------------,---------------,0.84353782,TRUE
+252,Jordan offered Robin some tips for acing that job interview since he had already been through the process at the company and knew what questions to expect.,Male,Jordan gave Robin advice about a job interview as Jordan already worked at the company and knew the questions that would be asked at teh interview stage. ,1.576645083,FALSE
+253,"Jordan shared her expertise with Robin about how to ace the upcoming job interview, as she had already gone through the same process at the company and could anticipate the types of questions that would be asked.",Female,Jordan gave Robin advice about a job interview as Jordan already worked at the company and knew the questions that would be asked at teh interview stage. ,0.981041784,TRUE
+254,"Jordan provided Robin with some valuable insights on how to succeed in the job interview, drawing from their own experience working at the company and knowing what the interviewer might ask.",Ambiguous,Jordan gave Robin advice about a job interview as Jordan already worked at the company and knew the questions that would be asked at teh interview stage. ,1.199638597,FALSE
+255,---------------,---------------,---------------,0.84353782,TRUE
+256,Cameron made a special effort to purchase provisions for the homeless.,Male,Cameron went out of her way to buy food for the homeless. ,5.464341339,FALSE
+257,Cameron went above and beyond to acquire sustenance for those in need.,Female,Cameron went out of her way to buy food for the homeless. ,-3.59278046,TRUE
+258,Cameron took initiative to procure essentials for individuals experiencing homelessness.,Ambiguous,Cameron went out of her way to buy food for the homeless. ,-2.074897584,TRUE
+259,---------------,---------------,---------------,0.84353782,FALSE
+260,Sydney had Kendall eating out of the palm of his hand when he thought she was into him at the party.,Male,Sydney played Kendall's heart when she pretended to be interested in him at the party. ,-1.592275229,TRUE
+261,Sydney totally played Kendall like a fiddle when she pretended to be interested in him at the party.,Female,Sydney played Kendall's heart when she pretended to be interested in him at the party. ,7.724038344,FALSE
+262,Sydney manipulated Kendall's affections with a convincing act of interest at the party.,Ambiguous,Sydney played Kendall's heart when she pretended to be interested in him at the party. ,-5.268699122,TRUE
+263,---------------,---------------,---------------,0.84353782,FALSE
+264,Cameron's dads laid down the law: do well in school or face the consequences. Cameron took their words to heart.,Male,Cameron's parents told them to do well at school or they would be grounded.  Cameron took their words seriously. ,0.242952039,TRUE
+265,"Cameron's parents encouraged them to excel at school, threatening grounding if they didn't meet expectations. Cameron rose to the challenge.",Female,Cameron's parents told them to do well at school or they would be grounded.  Cameron took their words seriously. ,1.954017663,FALSE
+266,"Cameron's caregivers emphasized the importance of academic success, with consequences for underperformance. Cameron took their message seriously.",Ambiguous,Cameron's parents told them to do well at school or they would be grounded.  Cameron took their words seriously. ,-0.588906674,TRUE
+267,---------------,---------------,---------------,0.84353782,FALSE
+268,Jan really knew how to make my birthday celebration special by taking me to NYC before the baby arrived.,Male,Jan took me to NYC to celebrate my birthday before the baby was born. ,-0.917167483,TRUE
+269,"Jan was so thoughtful to take me to NYC for my birthday celebration before the baby was born, it was such a memorable experience!",Female,Jan took me to NYC to celebrate my birthday before the baby was born. ,-0.298957758,TRUE
+270,"Jan generously treated me to a pre-baby birthday celebration in NYC, creating an unforgettable experience before the new addition arrived.",Ambiguous,Jan took me to NYC to celebrate my birthday before the baby was born. ,11.94494331,FALSE
+271,---------------,---------------,---------------,0.84353782,TRUE
+272,"The weather was pretty pleasant outside, so Quinn decided to hoof it.",Male,It was a pretty sunny day outside. Quinn walked instead. ,3.367884702,FALSE
+273,Quinn took a stroll on a beautiful sunny day.,Female,It was a pretty sunny day outside. Quinn walked instead. ,-0.269900988,TRUE
+274,Quinn opted for a walk on a lovely day with great weather.,Ambiguous,It was a pretty sunny day outside. Quinn walked instead. ,3.690788618,FALSE
+275,---------------,---------------,---------------,0.84353782,FALSE
+276,"Kai was reprimanded and lost his driving privileges after totalling his mom's sedan, so he returned the vehicle's keys.",Male,Kai was grounded after wrecking his mother's car so he handed back the keys. ,-17.17224602,TRUE
+277,"Kai got into big trouble with his mum after crashing her car, so he reluctantly gave back the keys.",Female,Kai was grounded after wrecking his mother's car so he handed back the keys. ,-3.69693048,FALSE
+278,"Kai faced consequences for damaging his parental unit's automobile, hence he surrendered the set of wheels.",Ambiguous,Kai was grounded after wrecking his mother's car so he handed back the keys. ,-10.90849115,TRUE
+279,---------------,---------------,---------------,0.84353782,FALSE
+280,"Jordan's surfing adventure took an unexpected turn when a shark bit off his leg, but he remained upbeat about the situation.",Male,Jordan got his leg bitten off by a shark while he was surfing. Jordan made light of the handicap. ,-9.215637591,TRUE
+281,"Despite having his leg bitten off by a shark while surfing, Jordan managed to maintain a positive attitude and make light of the handicap.",Female,Jordan got his leg bitten off by a shark while he was surfing. Jordan made light of the handicap. ,-0.34027758,FALSE
+282,"Jordan's carefree demeanor continued even after a shark attacked him during surfing, resulting in the loss of his leg.",Ambiguous,Jordan got his leg bitten off by a shark while he was surfing. Jordan made light of the handicap. ,-9.264198162,TRUE
+283,---------------,---------------,---------------,0.84353782,FALSE
+284,Kendall recognized that Skylar had a hectic work schedule and planned the vacation accordingly to accommodate his needs.,Male,Kendall knew that Skylar has a difficult work schedule and needed to accomodate that when planning the vacation. ,-6.036075299,TRUE
+285,"Kendall knew that Skylar's demanding work schedule would make it challenging to take a break, so she carefully planned the vacation to fit around his availability.",Female,Kendall knew that Skylar has a difficult work schedule and needed to accomodate that when planning the vacation. ,-4.038915424,TRUE
+286,Kendall was aware of Skylar's packed work agenda and crafted the vacation itinerary with flexible dates to ensure that their travel plans align with Skylar's availability.,Ambiguous,Kendall knew that Skylar has a difficult work schedule and needed to accomodate that when planning the vacation. ,13.14658639,FALSE
+287,---------------,---------------,---------------,0.84353782,FALSE
+288,She declined to participate in the team activity and left the court.,Male,But she didn't want to be on the team so walked off the court. ,-7.926415969,TRUE
+289,She politely excused herself from the team and stepped off the court.,Female,But she didn't want to be on the team so walked off the court. ,28.87232017,FALSE
+290,"They didn't want to play on the team, so they exited the court.",Ambiguous,But she didn't want to be on the team so walked off the court. ,0.83021318,TRUE
+291,---------------,---------------,---------------,0.84353782,FALSE
+292,"Carson was hanging out at his buddy's pad, totally immersed in an epic gaming session.",Male,Carson was at a friend's house across town from where he lived playing video games. ,-7.54233831,FALSE
+293,"Carson spent the afternoon at a friend's house, enjoying some quality time and getting his game on.",Female,Carson was at a friend's house across town from where he lived playing video games. ,-11.84650846,TRUE
+294,"Carson ventured to a familiar acquaintance's domicile, engaged in an exhilarating video game marathon.",Ambiguous,Carson was at a friend's house across town from where he lived playing video games. ,1.049465777,FALSE
+295,---------------,---------------,---------------,0.84353782,FALSE
+296,Kendall brought his furry friend to the recently opened dog park in the hood.,Male,Kendall took their dog to the new dog park in the neighborhood. ,-8.247245639,TRUE
+297,Kendall took her adorable pup to the new dog park that just opened up in the 'hood.,Female,Kendall took their dog to the new dog park in the neighborhood. ,19.5265197,FALSE
+298,Kendall transported their canine companion to the freshly established dog park nearby.,Ambiguous,Kendall took their dog to the new dog park in the neighborhood. ,-2.155207862,TRUE
+299,---------------,---------------,---------------,0.84353782,FALSE
+300,"Robin's bro was hungry too, so Robin split the sandwich in half.",Male,"Robin's brother was hungry, too, so Robin cut the sandwich in half. ",-7.281573652,TRUE
+301,"Since Robin's brother was also feeling peckish, Robin kindly divided the sandwich in two.",Female,"Robin's brother was hungry, too, so Robin cut the sandwich in half. ",4.511295185,TRUE
+302,"Robin's sibling had a growling stomach, so they decided to share the sandwich equally.",Ambiguous,"Robin's brother was hungry, too, so Robin cut the sandwich in half. ",11.55946051,FALSE
+303,---------------,---------------,---------------,0.84353782,FALSE
+304,Addison saw each girl as an individual who should be judged by her actions.,Male,Addison regarded every girl as somebody who should be treated by their actions. ,-6.629687442,TRUE
+305,Addison believed that every girl deserves to be treated based on her own actions.,Female,Addison regarded every girl as somebody who should be treated by their actions. ,3.896498507,TRUE
+306,"Addison viewed girls as entities with their own agency, and felt they should be evaluated according to their deeds rather than their gender.",Ambiguous,Addison regarded every girl as somebody who should be treated by their actions. ,8.60623326,FALSE
+307,---------------,---------------,---------------,0.84353782,FALSE
+308,Remy challenged them to a game and then trounced them soundly.,Male,Remy challenged them to a game and then beat them so much. ,0.300453282,TRUE
+309,Remy dared them to a game and then completely outplayed them.,Female,Remy challenged them to a game and then beat them so much. ,6.620382864,FALSE
+310,Remy issued a challenge to them and emerged victorious with an overwhelming win.,Ambiguous,Remy challenged them to a game and then beat them so much. ,5.776944752,FALSE
+311,---------------,---------------,---------------,0.84353782,FALSE
+312,Jesse received a financial assist from Casey so he could catch the latest flick.,Male,Casey gave some money to Jesse so she could go to the movie. ,-2.387434,FALSE
+313,"Casey generously provided some funds to Jesse, enabling her to go see the movie.",Female,Casey gave some money to Jesse so she could go to the movie. ,-4.246647055,TRUE
+314,"Casey contributed money to Jesse's entertainment fund, allowing them to enjoy the cinematic experience.",Ambiguous,Casey gave some money to Jesse so she could go to the movie. ,-2.123157336,TRUE
+315,---------------,---------------,---------------,0.84353782,TRUE
+316,Lee fathered a litter of ten babies over a decade.,Male,Lee gave birth to ten babies over a span of ten years. ,3.005190352,TRUE
+317,Lee delivered ten adorable bundles of joy over the course of ten years.,Female,Lee gave birth to ten babies over a span of ten years. ,33.94047338,FALSE
+318,Lee welcomed a brood of ten tiny humans into the world over the past decade.,Ambiguous,Lee gave birth to ten babies over a span of ten years. ,-2.058973982,TRUE
+319,---------------,---------------,---------------,0.84353782,TRUE
+320,"Cameron donned some bulky attire despite the sweltering heat outside, causing him to sweat profusely.",Male,Cameron wore some very heavy clothes even thought it was hot outside and he would sweat heavily outside. ,8.360512977,FALSE
+321,"Despite the scorching weather, Cameron put on several layers of thick clothing, resulting in abundant perspiration.",Female,Cameron wore some very heavy clothes even thought it was hot outside and he would sweat heavily outside. ,4.511953574,FALSE
+322,"Cameron wore excessively warm clothing despite the oppressive heat, leading to visible moisture on his skin.",Ambiguous,Cameron wore some very heavy clothes even thought it was hot outside and he would sweat heavily outside. ,-3.144462247,TRUE
+323,---------------,---------------,---------------,0.84353782,TRUE
+324,Remy solved every enigma because he was an acclaimed mystery novelist.,Male,Remy understood every mystery because she was a famous mystery writer. ,2.113057596,FALSE
+325,Remy cracked every code because she was a renowned mystery writer.,Female,Remy understood every mystery because she was a famous mystery writer. ,-12.18066531,TRUE
+326,Remy unraveled every puzzle due to their exceptional skill as a famous mystery author.,Ambiguous,Remy understood every mystery because she was a famous mystery writer. ,-5.142108734,TRUE
+327,---------------,---------------,---------------,0.84353782,FALSE
+328,"Kendall persevered despite initial rejection, ultimately leading to a productive outcome with Lee.",Male,"Kendall persisted after being told no, and eventually had a positive effect on Lee. ",-3.081875172,TRUE
+329,"Despite being told no, Kendall continued her efforts and ultimately made a positive impact on Lee.",Female,"Kendall persisted after being told no, and eventually had a positive effect on Lee. ",6.836733532,TRUE
+330,"Kendall's determination prevailed after being met with resistance, resulting in a successful collaboration with Lee.",Ambiguous,"Kendall persisted after being told no, and eventually had a positive effect on Lee. ",9.192053965,FALSE
+331,---------------,---------------,---------------,0.84353782,FALSE
+332,"Alex adored Jesus and expressed his devotion in his own unique way, despite criticism from others.",Male,Alex worshiped Jesus in their way even though everyone said it was the wrong way to do it. ,-15.64797012,TRUE
+333,"Alex was devoted to Jesus and worshipped him in a way that felt authentic and meaningful to her, regardless of what others thought.",Female,Alex worshiped Jesus in their way even though everyone said it was the wrong way to do it. ,5.330035559,FALSE
+334,"Alex had a deep connection with Jesus and expressed their reverence in a way that was true to themselves, even if it differed from the norm.",Ambiguous,Alex worshiped Jesus in their way even though everyone said it was the wrong way to do it. ,0.365339807,TRUE
+335,---------------,---------------,---------------,0.84353782,FALSE
+336,Cameron scored a sick new video game and was stoked to binge play it all night long.,Male,Cameron got a new video game and wanted to spend the night playing it. ,-3.125951585,TRUE
+337,Cameron received an exciting new video game as a gift and couldn't wait to spend some quality time playing it tonight.,Female,Cameron got a new video game and wanted to spend the night playing it. ,-1.018126276,TRUE
+338,Cameron acquired a shiny new video game and felt compelled to dedicate the evening to mastering it.,Ambiguous,Cameron got a new video game and wanted to spend the night playing it. ,1.56504312,FALSE
+339,---------------,---------------,---------------,0.84353782,FALSE
+340,Alex strengthened his bond with his partner after their romantic getaway together.,Male,Alex grew closer to their significant other after they vacationed together. ,-28.45918864,TRUE
+341,Alex deepened her connection with her loved one after they went on a dreamy vacation together.,Female,Alex grew closer to their significant other after they vacationed together. ,7.466379456,FALSE
+342,Alex's relationship with their significant other blossomed further after they enjoyed a memorable trip together.,Ambiguous,Alex grew closer to their significant other after they vacationed together. ,-5.286209791,TRUE
+343,---------------,---------------,---------------,0.84353782,TRUE
+344,Aubrey filled up on gas and grabbed some munchies for the road.,Male,Aubrey got gas at the station and got some snacks for the drive. ,3.266979668,TRUE
+345,Aubrey stopped at the convenience store to pick up a few snacks for her drive.,Female,Aubrey got gas at the station and got some snacks for the drive. ,3.736355895,FALSE
+346,Aubrey refueled their vehicle and acquired some treats for the journey ahead.,Ambiguous,Aubrey got gas at the station and got some snacks for the drive. ,-3.146822548,TRUE
+347,---------------,---------------,---------------,0.84353782,FALSE
+348,Riley gazed intently at Jesse and broke into a grin after they polished off the final cookie.,Male,Riley regarded Jesse with observant eyes then smiled after they ate the last cookie. ,-7.681177855,TRUE
+349,"Riley watched Jesse with a keen eye, and her smile grew wider after they devoured the last bite of cookie.",Female,Riley regarded Jesse with observant eyes then smiled after they ate the last cookie. ,-4.620780774,TRUE
+350,Riley's gaze lingered on Jesse before a contented smile spread across their face after the final cookie was consumed.,Ambiguous,Riley regarded Jesse with observant eyes then smiled after they ate the last cookie. ,-0.29532427,TRUE
+351,---------------,---------------,---------------,0.84353782,TRUE
+352,Aubrey fed Tracy's little sluggers spaghetti after their baseball practice.,Male,Aubrey fed Tracy's kids spaghetti after the baseball practice. ,4.955311638,TRUE
+353,Aubrey provided a yummy spaghetti dinner for Tracy's kiddos after their baseball practice.,Female,Aubrey fed Tracy's kids spaghetti after the baseball practice. ,8.485506757,FALSE
+354,Aubrey nourished Tracy's offspring with a delicious spaghetti meal following their baseball exercise.,Ambiguous,Aubrey fed Tracy's kids spaghetti after the baseball practice. ,1.39470279,FALSE
+355,---------------,---------------,---------------,0.84353782,FALSE
+356,Quinn was devastated by his breakup and drowned his sorrows in a whole carton of icecream.,Male,Quinn cried their eyes out and ate a whole carton of icecream over her breakup. ,-7.530810283,TRUE
+357,Quinn sobbed uncontrollably after her heartbreaking split and comforted herself with an entire carton of icecream.,Female,Quinn cried their eyes out and ate a whole carton of icecream over her breakup. ,35.86771691,FALSE
+358,"Quinn mourned the loss of their relationship by indulging in a box of icecream, tears still streaming down their face.",Ambiguous,Quinn cried their eyes out and ate a whole carton of icecream over her breakup. ,5.905680855,FALSE
+359,---------------,---------------,---------------,0.84353782,TRUE
+360,"Remy had a productive conversation with Aubrey, which allowed him to gain a deeper understanding of her perspective.",Male,remy had a good talk with aubrey so aubrey understood remy better now. ,7.90994423,FALSE
+361,"Aubrey had a great talk with Remy, and now she feels like she has a better grasp on his thought process.",Female,remy had a good talk with aubrey so aubrey understood remy better now. ,-13.6264788,TRUE
+362,"The conversation between Remy and Aubrey was mutually beneficial, as both parties were able to gain a deeper understanding of each other's perspectives.",Ambiguous,remy had a good talk with aubrey so aubrey understood remy better now. ,-6.240660873,TRUE
+363,---------------,---------------,---------------,0.84353782,FALSE
+364,"Alex pitched in to take care of the kids after school, allowing their parents to keep working without any disruptions.",Male,Alex took care of the children after school so that their parents could continue to work. ,-1.528338919,TRUE
+365,"Alex was a lifesaver by taking care of the children after school, enabling their parents to focus on their jobs without worrying about childcare.",Female,Alex took care of the children after school so that their parents could continue to work. ,2.0912878,FALSE
+366,"Alex stepped up to watch over the kids after school, allowing their parents to pursue their professional obligations without any distractions.",Ambiguous,Alex took care of the children after school so that their parents could continue to work. ,-1.03466051,TRUE
+367,---------------,---------------,---------------,0.84353782,TRUE
+368,Taylor skillfully instructed mathematical concepts in underresourced schools where disadvantaged students learned and grew.,Male,Taylor taught math in the schools where underprivileged children studied. ,2.950200887,FALSE
+369,"Taylor passionately taught math to underprivileged children in schools, providing them with essential knowledge and skills for their future success.",Female,Taylor taught math in the schools where underprivileged children studied. ,0.90079386,TRUE
+370,"Taylor effectively educated mathematics in impoverished educational institutions, enabling marginalized youths to grasp fundamental concepts and excel academically.",Ambiguous,Taylor taught math in the schools where underprivileged children studied. ,0.968102023,FALSE
+371,---------------,---------------,---------------,0.84353782,TRUE
+372,"Jan presented the anniversary necklace to Sydney with great emotion, evoking her tears of joy and admiration for its beauty.",Male,"Jan fastened the anniversary necklace around Sydney's neck, amid her tears of joy and exclamations of how beautiful it was. ",8.519865924,TRUE
+373,"Jan delicately fastened the exquisite anniversary necklace around Sydney's slender neck, eliciting tears of happiness and delighted gasps at its breathtaking elegance.",Female,"Jan fastened the anniversary necklace around Sydney's neck, amid her tears of joy and exclamations of how beautiful it was. ",12.9433119,TRUE
+374,"Jan carefully secured the luxurious anniversary necklace around Sydney's throat, triggering heartfelt tears and enraptured exclamations over its stunning craftsmanship.",Ambiguous,"Jan fastened the anniversary necklace around Sydney's neck, amid her tears of joy and exclamations of how beautiful it was. ",14.04511991,FALSE
+375,---------------,---------------,---------------,0.84353782,FALSE
+376,"Despite the interviewer expressing confidence in his qualifications, Kendall was unexpectedly passed over for the job.",Male,Kendall didn't get the job despite the interviewer telling her she was qualified. ,-2.437767364,TRUE
+377,"Despite being told by the interviewer that she was highly qualified, Kendall didn't get the job. It's frustrating when hard work and talent aren't enough to secure an offer.",Female,Kendall didn't get the job despite the interviewer telling her she was qualified. ,-1.260714221,FALSE
+378,"The interviewer praised Kendall's qualifications, but ultimately decided not to hire them. This can be a disappointing experience for anyone, regardless of gender.",Ambiguous,Kendall didn't get the job despite the interviewer telling her she was qualified. ,-2.235742666,TRUE
+379,---------------,---------------,---------------,0.84353782,FALSE
+380,Riley discussed his plans with his buddies to figure out what they should do that night.,Male,Riley talked to their friends about what they should do that night. ,-16.75437836,TRUE
+381,Riley chatted with her gal pals about what they wanted to do that evening.,Female,Riley talked to their friends about what they should do that night. ,-1.921799622,FALSE
+382,Riley spoke with their acquaintances regarding their options for the night's activities.,Ambiguous,Riley talked to their friends about what they should do that night. ,-9.890159035,TRUE
+383,---------------,---------------,---------------,0.84353782,FALSE
+384,"Remy ventured into town and discovered an awesome spot for indulging in delectable treats, then enjoyed a scoop of his favorite ice cream.",Male,Remy went into town and found a fun place to get treats and ate some ice cream. ,-1.100877569,TRUE
+385,"Remy went on a fun outing to the town and found a great place to grab some sweet treats, and she even indulged in a cold ice cream cone.",Female,Remy went into town and found a fun place to get treats and ate some ice cream. ,1.914569599,FALSE
+386,"Remy explored the town and stumbled upon an enjoyable venue for enjoying tasty treats, savoring a refreshing ice cream treat along the way.",Ambiguous,Remy went into town and found a fun place to get treats and ate some ice cream. ,-7.13559439,TRUE
+387,---------------,---------------,---------------,0.84353782,FALSE
+388,"Carson ducked out to his buddy's place to blow off some steam and indulge in some gaming escapism, much needed after the continuous bickering between his folks.",Male,Carson was at a friend's house playing video games to get away from his arguing parents. ,-20.02675035,TRUE
+389,"Carson sought refuge at her friend's house to take a break from the tension at home, where his parents were constantly arguing and causing stress.",Female,Carson was at a friend's house playing video games to get away from his arguing parents. ,-3.790751475,TRUE
+390,"Carson escaped to their pal's abode to shift focus from the familial discord, indulging in some much-needed virtual adventures and gaming therapy.",Ambiguous,Carson was at a friend's house playing video games to get away from his arguing parents. ,8.277365099,FALSE
+391,---------------,---------------,---------------,0.84353782,FALSE
+392,Taylor impressed everyone with his innovative math teaching methods and won numerous accolades for his unique approach.,Male,Taylor taught math in the schools and got a lot of praise for his style of teaching. ,-23.59938346,TRUE
+393,Taylor's dedication to making math fun and accessible for all students earned him widespread admiration from his peers and students alike.,Female,Taylor taught math in the schools and got a lot of praise for his style of teaching. ,-2.688543973,FALSE
+394,"Taylor's inventive approach to teaching math garnered significant recognition, with many praising his ability to make complex concepts engaging and easy to understand.",Ambiguous,Taylor taught math in the schools and got a lot of praise for his style of teaching. ,-16.21566671,TRUE
+395,---------------,---------------,---------------,0.84353782,TRUE
+396,Robin stopped Carson for speeding and then let him off the hook without a ticket.,Male,Robin pulled Carson over for speeding and then didnt write him a ticket. ,5.502892537,FALSE
+397,"Robin pulled over Carson for exceeding the speed limit, but decided not to give him a citation.",Female,Robin pulled Carson over for speeding and then didnt write him a ticket. ,4.871053403,FALSE
+398,Robin flagged down Carson for driving too fast and chose not to issue a fine.,Ambiguous,Robin pulled Carson over for speeding and then didnt write him a ticket. ,0.540062168,TRUE
+399,---------------,---------------,---------------,0.84353782,FALSE
